@@ -18,16 +18,13 @@ We focus on life expectancy trends. We have 4 rounds in this workflow.
 ## Folder Structure:
 
 ● Codes
-- Contains all the files used for plotting visualizations , ml model
-
-(k-means clustering) and preprocessing codes.
+- Contains all the files used for plotting visualizations , ml model (k-means clustering) and preprocessing codes.
+  
 ● Files
-
 - Contains all the preprocessed files , given dataset.
+  
 ● Images
-
-- Contains all the images used in the report , named as per the
-name in the report. Few extra images are also there.
+- Contains all the images used in the report , named as per the name in the report. Few extra images are also there.
 
 To run the code:
 
