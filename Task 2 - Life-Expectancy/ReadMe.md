@@ -1,9 +1,9 @@
 # Task 2 - Life Expectancy Analysis
 
 ## Overview
-We focus on life expectancy trends. cWe have 4 rounds in this workflow. 
+We focus on life expectancy trends. We have 4 rounds in this workflow. 
 
-1. *First Run**  
+1. **First Run**  
    We start by analyzing life expectancy trends for the entire world.
 
 2. **Second Run**  
