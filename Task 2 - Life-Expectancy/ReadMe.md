@@ -1,19 +1,19 @@
-Task 2 - Life Expectancy Analysis
+##Task 2 - Life Expectancy Analysis
 
 ## Overview
-This project looks at life expectancy trends worldwide and focuses on Africa to understand what impacts life expectancy in that region. The work is divided into four steps:
+We focus on life expectancy trends. cWe have 4 rounds in this workflow. 
 
-1. **Global Life Expectancy Analysis**  
+1. *First Run**  
    We start by analyzing life expectancy trends for the entire world.
 
-2. **Focus on Africa**  
-   Based on the global analysis, we focus on Africa to study regional trends.
+2. **Second Run**  
+   Based on the feedback of first run , we focus on Africa to study regional trends.
 
-3. **Impact of Factors**  
-   We identify and analyze different factors that affect life expectancy in African countries.
+3. **Third Run**  
+   We identify and analyze different factors that affect life expectancy in African countries. We also implement ml models in this run.
 
-4. **Trends of Key Factors**  
-   Finally, we look at how these important factors have changed over time in Africa.
+4. **Fourth Run**  
+   We look at trends of these factors.
 
 ## Folder Structure
 - **Codes**  
