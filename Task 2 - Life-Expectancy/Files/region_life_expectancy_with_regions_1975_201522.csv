@@ -1,0 +1,2031 @@
+country,date,life_expectancy_at_birth,year,region
+Algeria,01-01-1975,46.972,1975,North Africa
+Algeria,01-01-1976,47.985,1976,North Africa
+Algeria,01-01-1977,49.191,1977,North Africa
+Algeria,01-01-1978,50.353,1978,North Africa
+Algeria,01-01-1979,51.755,1979,North Africa
+Algeria,01-01-1980,53.261,1980,North Africa
+Algeria,01-01-1981,55.276,1981,North Africa
+Algeria,01-01-1982,57.428,1982,North Africa
+Algeria,01-01-1983,59.51,1983,North Africa
+Algeria,01-01-1984,61.658,1984,North Africa
+Algeria,01-01-1985,63.588,1985,North Africa
+Algeria,01-01-1986,65.159,1986,North Africa
+Algeria,01-01-1987,65.83,1987,North Africa
+Algeria,01-01-1988,66.971,1988,North Africa
+Algeria,01-01-1989,67.085,1989,North Africa
+Algeria,01-01-1990,67.416,1990,North Africa
+Algeria,01-01-1991,67.688,1991,North Africa
+Algeria,01-01-1992,67.757,1992,North Africa
+Algeria,01-01-1993,67.719,1993,North Africa
+Algeria,01-01-1994,67.361,1994,North Africa
+Algeria,01-01-1995,67.454,1995,North Africa
+Algeria,01-01-1996,68.749,1996,North Africa
+Algeria,01-01-1997,69.171,1997,North Africa
+Algeria,01-01-1998,69.451,1998,North Africa
+Algeria,01-01-1999,70.032,1999,North Africa
+Algeria,01-01-2000,70.478,2000,North Africa
+Algeria,01-01-2001,70.823,2001,North Africa
+Algeria,01-01-2002,71.23,2002,North Africa
+Algeria,01-01-2003,71.287,2003,North Africa
+Algeria,01-01-2004,71.762,2004,North Africa
+Algeria,01-01-2005,72.061,2005,North Africa
+Algeria,01-01-2006,72.334,2006,North Africa
+Algeria,01-01-2007,72.602,2007,North Africa
+Algeria,01-01-2008,72.941,2008,North Africa
+Algeria,01-01-2009,73.62,2009,North Africa
+Algeria,01-01-2010,73.808,2010,North Africa
+Algeria,01-01-2011,74.123,2011,North Africa
+Algeria,01-01-2012,74.202,2012,North Africa
+Algeria,01-01-2013,74.615,2013,North Africa
+Algeria,01-01-2014,75.11,2014,North Africa
+Algeria,01-01-2015,75.622,2015,North Africa
+Angola,01-01-1975,41.191,1975,Central Africa
+Angola,01-01-1976,41.163,1976,Central Africa
+Angola,01-01-1977,41.437,1977,Central Africa
+Angola,01-01-1978,41.83,1978,Central Africa
+Angola,01-01-1979,42.175,1979,Central Africa
+Angola,01-01-1980,42.449,1980,Central Africa
+Angola,01-01-1981,42.772,1981,Central Africa
+Angola,01-01-1982,43.051,1982,Central Africa
+Angola,01-01-1983,42.092,1983,Central Africa
+Angola,01-01-1984,42.353,1984,Central Africa
+Angola,01-01-1985,42.648,1985,Central Africa
+Angola,01-01-1986,42.843,1986,Central Africa
+Angola,01-01-1987,40.917,1987,Central Africa
+Angola,01-01-1988,41.545,1988,Central Africa
+Angola,01-01-1989,41.765,1989,Central Africa
+Angola,01-01-1990,41.893,1990,Central Africa
+Angola,01-01-1991,43.813,1991,Central Africa
+Angola,01-01-1992,42.209,1992,Central Africa
+Angola,01-01-1993,42.101,1993,Central Africa
+Angola,01-01-1994,43.422,1994,Central Africa
+Angola,01-01-1995,45.849,1995,Central Africa
+Angola,01-01-1996,46.033,1996,Central Africa
+Angola,01-01-1997,46.306,1997,Central Africa
+Angola,01-01-1998,45.057,1998,Central Africa
+Angola,01-01-1999,45.386,1999,Central Africa
+Angola,01-01-2000,46.024,2000,Central Africa
+Angola,01-01-2001,46.59,2001,Central Africa
+Angola,01-01-2002,47.386,2002,Central Africa
+Angola,01-01-2003,49.617,2003,Central Africa
+Angola,01-01-2004,50.592,2004,Central Africa
+Angola,01-01-2005,51.57,2005,Central Africa
+Angola,01-01-2006,52.369,2006,Central Africa
+Angola,01-01-2007,53.642,2007,Central Africa
+Angola,01-01-2008,54.633,2008,Central Africa
+Angola,01-01-2009,55.752,2009,Central Africa
+Angola,01-01-2010,56.726,2010,Central Africa
+Angola,01-01-2011,57.596,2011,Central Africa
+Angola,01-01-2012,58.623,2012,Central Africa
+Angola,01-01-2013,59.307,2013,Central Africa
+Angola,01-01-2014,60.04,2014,Central Africa
+Angola,01-01-2015,60.655,2015,Central Africa
+Benin,01-01-1975,44.681,1975,West Africa
+Benin,01-01-1976,45.488,1976,West Africa
+Benin,01-01-1977,46.176,1977,West Africa
+Benin,01-01-1978,46.961,1978,West Africa
+Benin,01-01-1979,47.362,1979,West Africa
+Benin,01-01-1980,47.877,1980,West Africa
+Benin,01-01-1981,48.31,1981,West Africa
+Benin,01-01-1982,48.813,1982,West Africa
+Benin,01-01-1983,49.333,1983,West Africa
+Benin,01-01-1984,49.747,1984,West Africa
+Benin,01-01-1985,50.374,1985,West Africa
+Benin,01-01-1986,51.075,1986,West Africa
+Benin,01-01-1987,51.659,1987,West Africa
+Benin,01-01-1988,52.294,1988,West Africa
+Benin,01-01-1989,52.684,1989,West Africa
+Benin,01-01-1990,53.292,1990,West Africa
+Benin,01-01-1991,53.624,1991,West Africa
+Benin,01-01-1992,54.089,1992,West Africa
+Benin,01-01-1993,54.537,1993,West Africa
+Benin,01-01-1994,54.91,1994,West Africa
+Benin,01-01-1995,55.295,1995,West Africa
+Benin,01-01-1996,55.558,1996,West Africa
+Benin,01-01-1997,55.978,1997,West Africa
+Benin,01-01-1998,56.218,1998,West Africa
+Benin,01-01-1999,56.526,1999,West Africa
+Benin,01-01-2000,56.578,2000,West Africa
+Benin,01-01-2001,56.66,2001,West Africa
+Benin,01-01-2002,56.606,2002,West Africa
+Benin,01-01-2003,56.738,2003,West Africa
+Benin,01-01-2004,56.826,2004,West Africa
+Benin,01-01-2005,57.125,2005,West Africa
+Benin,01-01-2006,57.456,2006,West Africa
+Benin,01-01-2007,57.675,2007,West Africa
+Benin,01-01-2008,57.869,2008,West Africa
+Benin,01-01-2009,57.956,2009,West Africa
+Benin,01-01-2010,58.363,2010,West Africa
+Benin,01-01-2011,58.462,2011,West Africa
+Benin,01-01-2012,58.716,2012,West Africa
+Benin,01-01-2013,58.965,2013,West Africa
+Benin,01-01-2014,59.125,2014,West Africa
+Benin,01-01-2015,59.377,2015,West Africa
+Botswana,01-01-1975,57.998,1975,Southern Africa
+Botswana,01-01-1976,58.583,1976,Southern Africa
+Botswana,01-01-1977,59.169,1977,Southern Africa
+Botswana,01-01-1978,59.691,1978,Southern Africa
+Botswana,01-01-1979,60.176,1979,Southern Africa
+Botswana,01-01-1980,60.646,1980,Southern Africa
+Botswana,01-01-1981,61.125,1981,Southern Africa
+Botswana,01-01-1982,61.57,1982,Southern Africa
+Botswana,01-01-1983,62.004,1983,Southern Africa
+Botswana,01-01-1984,62.364,1984,Southern Africa
+Botswana,01-01-1985,62.626,1985,Southern Africa
+Botswana,01-01-1986,62.678,1986,Southern Africa
+Botswana,01-01-1987,62.522,1987,Southern Africa
+Botswana,01-01-1988,61.755,1988,Southern Africa
+Botswana,01-01-1989,61.427,1989,Southern Africa
+Botswana,01-01-1990,60.533,1990,Southern Africa
+Botswana,01-01-1991,59.473,1991,Southern Africa
+Botswana,01-01-1992,58.348,1992,Southern Africa
+Botswana,01-01-1993,57.719,1993,Southern Africa
+Botswana,01-01-1994,56.154,1994,Southern Africa
+Botswana,01-01-1995,55.059,1995,Southern Africa
+Botswana,01-01-1996,54.357,1996,Southern Africa
+Botswana,01-01-1997,53.448,1997,Southern Africa
+Botswana,01-01-1998,52.523,1998,Southern Africa
+Botswana,01-01-1999,51.694,1999,Southern Africa
+Botswana,01-01-2000,51.011,2000,Southern Africa
+Botswana,01-01-2001,50.676,2001,Southern Africa
+Botswana,01-01-2002,50.632,2002,Southern Africa
+Botswana,01-01-2003,50.947,2003,Southern Africa
+Botswana,01-01-2004,51.617,2004,Southern Africa
+Botswana,01-01-2005,52.61,2005,Southern Africa
+Botswana,01-01-2006,53.918,2006,Southern Africa
+Botswana,01-01-2007,55.732,2007,Southern Africa
+Botswana,01-01-2008,57.121,2008,Southern Africa
+Botswana,01-01-2009,58.279,2009,Southern Africa
+Botswana,01-01-2010,60.013,2010,Southern Africa
+Botswana,01-01-2011,60.53,2011,Southern Africa
+Botswana,01-01-2012,60.8,2012,Southern Africa
+Botswana,01-01-2013,61.996,2013,Southern Africa
+Botswana,01-01-2014,62.608,2014,Southern Africa
+Botswana,01-01-2015,63.818,2015,Southern Africa
+Burkina Faso,01-01-1975,42.307,1975,West Africa
+Burkina Faso,01-01-1976,43.245,1976,West Africa
+Burkina Faso,01-01-1977,44.147,1977,West Africa
+Burkina Faso,01-01-1978,45.073,1978,West Africa
+Burkina Faso,01-01-1979,45.903,1979,West Africa
+Burkina Faso,01-01-1980,46.539,1980,West Africa
+Burkina Faso,01-01-1981,46.872,1981,West Africa
+Burkina Faso,01-01-1982,47.602,1982,West Africa
+Burkina Faso,01-01-1983,48.091,1983,West Africa
+Burkina Faso,01-01-1984,48.638,1984,West Africa
+Burkina Faso,01-01-1985,48.949,1985,West Africa
+Burkina Faso,01-01-1986,49.013,1986,West Africa
+Burkina Faso,01-01-1987,49.058,1987,West Africa
+Burkina Faso,01-01-1988,49.132,1988,West Africa
+Burkina Faso,01-01-1989,49.174,1989,West Africa
+Burkina Faso,01-01-1990,49.44,1990,West Africa
+Burkina Faso,01-01-1991,49.45,1991,West Africa
+Burkina Faso,01-01-1992,49.437,1992,West Africa
+Burkina Faso,01-01-1993,49.209,1993,West Africa
+Burkina Faso,01-01-1994,49.307,1994,West Africa
+Burkina Faso,01-01-1995,49.446,1995,West Africa
+Burkina Faso,01-01-1996,49.614,1996,West Africa
+Burkina Faso,01-01-1997,49.4,1997,West Africa
+Burkina Faso,01-01-1998,49.991,1998,West Africa
+Burkina Faso,01-01-1999,50.325,1999,West Africa
+Burkina Faso,01-01-2000,50.847,2000,West Africa
+Burkina Faso,01-01-2001,51.071,2001,West Africa
+Burkina Faso,01-01-2002,51.272,2002,West Africa
+Burkina Faso,01-01-2003,51.793,2003,West Africa
+Burkina Faso,01-01-2004,52.416,2004,West Africa
+Burkina Faso,01-01-2005,53.092,2005,West Africa
+Burkina Faso,01-01-2006,53.742,2006,West Africa
+Burkina Faso,01-01-2007,54.375,2007,West Africa
+Burkina Faso,01-01-2008,55.342,2008,West Africa
+Burkina Faso,01-01-2009,55.959,2009,West Africa
+Burkina Faso,01-01-2010,56.477,2010,West Africa
+Burkina Faso,01-01-2011,57.125,2011,West Africa
+Burkina Faso,01-01-2012,57.619,2012,West Africa
+Burkina Faso,01-01-2013,57.823,2013,West Africa
+Burkina Faso,01-01-2014,58.359,2014,West Africa
+Burkina Faso,01-01-2015,58.845,2015,West Africa
+Burundi,01-01-1975,42.982,1975,East Africa
+Burundi,01-01-1976,43.144,1976,East Africa
+Burundi,01-01-1977,43.513,1977,East Africa
+Burundi,01-01-1978,43.764,1978,East Africa
+Burundi,01-01-1979,44.59,1979,East Africa
+Burundi,01-01-1980,45.406,1980,East Africa
+Burundi,01-01-1981,46.393,1981,East Africa
+Burundi,01-01-1982,47.29,1982,East Africa
+Burundi,01-01-1983,48.051,1983,East Africa
+Burundi,01-01-1984,48.491,1984,East Africa
+Burundi,01-01-1985,48.541,1985,East Africa
+Burundi,01-01-1986,48.164,1986,East Africa
+Burundi,01-01-1987,47.516,1987,East Africa
+Burundi,01-01-1988,43.04,1988,East Africa
+Burundi,01-01-1989,45.62,1989,East Africa
+Burundi,01-01-1990,44.86,1990,East Africa
+Burundi,01-01-1991,44.227,1991,East Africa
+Burundi,01-01-1992,43.895,1992,East Africa
+Burundi,01-01-1993,37.105,1993,East Africa
+Burundi,01-01-1994,44.08,1994,East Africa
+Burundi,01-01-1995,44.059,1995,East Africa
+Burundi,01-01-1996,44.373,1996,East Africa
+Burundi,01-01-1997,45.387,1997,East Africa
+Burundi,01-01-1998,46.552,1998,East Africa
+Burundi,01-01-1999,47.528,1999,East Africa
+Burundi,01-01-2000,47.514,2000,East Africa
+Burundi,01-01-2001,48.431,2001,East Africa
+Burundi,01-01-2002,49.891,2002,East Africa
+Burundi,01-01-2003,50.857,2003,East Africa
+Burundi,01-01-2004,52.01,2004,East Africa
+Burundi,01-01-2005,53.023,2005,East Africa
+Burundi,01-01-2006,53.869,2006,East Africa
+Burundi,01-01-2007,54.727,2007,East Africa
+Burundi,01-01-2008,55.71,2008,East Africa
+Burundi,01-01-2009,56.388,2009,East Africa
+Burundi,01-01-2010,57.081,2010,East Africa
+Burundi,01-01-2011,57.769,2011,East Africa
+Burundi,01-01-2012,58.493,2012,East Africa
+Burundi,01-01-2013,59.235,2013,East Africa
+Burundi,01-01-2014,59.868,2014,East Africa
+Burundi,01-01-2015,60.217,2015,East Africa
+Cabo Verde,01-01-1975,57.89,1975,West Africa
+Cabo Verde,01-01-1976,58.65,1976,West Africa
+Cabo Verde,01-01-1977,59.568,1977,West Africa
+Cabo Verde,01-01-1978,60.306,1978,West Africa
+Cabo Verde,01-01-1979,60.917,1979,West Africa
+Cabo Verde,01-01-1980,61.368,1980,West Africa
+Cabo Verde,01-01-1981,61.593,1981,West Africa
+Cabo Verde,01-01-1982,61.67,1982,West Africa
+Cabo Verde,01-01-1983,61.693,1983,West Africa
+Cabo Verde,01-01-1984,61.661,1984,West Africa
+Cabo Verde,01-01-1985,62.182,1985,West Africa
+Cabo Verde,01-01-1986,62.747,1986,West Africa
+Cabo Verde,01-01-1987,63.404,1987,West Africa
+Cabo Verde,01-01-1988,64.058,1988,West Africa
+Cabo Verde,01-01-1989,64.446,1989,West Africa
+Cabo Verde,01-01-1990,65.023,1990,West Africa
+Cabo Verde,01-01-1991,65.176,1991,West Africa
+Cabo Verde,01-01-1992,65.318,1992,West Africa
+Cabo Verde,01-01-1993,65.312,1993,West Africa
+Cabo Verde,01-01-1994,65.25,1994,West Africa
+Cabo Verde,01-01-1995,64.093,1995,West Africa
+Cabo Verde,01-01-1996,65.763,1996,West Africa
+Cabo Verde,01-01-1997,66.378,1997,West Africa
+Cabo Verde,01-01-1998,66.993,1998,West Africa
+Cabo Verde,01-01-1999,67.569,1999,West Africa
+Cabo Verde,01-01-2000,68.618,2000,West Africa
+Cabo Verde,01-01-2001,69.929,2001,West Africa
+Cabo Verde,01-01-2002,70.705,2002,West Africa
+Cabo Verde,01-01-2003,71.429,2003,West Africa
+Cabo Verde,01-01-2004,71.999,2004,West Africa
+Cabo Verde,01-01-2005,72.68,2005,West Africa
+Cabo Verde,01-01-2006,72.239,2006,West Africa
+Cabo Verde,01-01-2007,72.835,2007,West Africa
+Cabo Verde,01-01-2008,72.508,2008,West Africa
+Cabo Verde,01-01-2009,73.088,2009,West Africa
+Cabo Verde,01-01-2010,73.499,2010,West Africa
+Cabo Verde,01-01-2011,74.257,2011,West Africa
+Cabo Verde,01-01-2012,74.484,2012,West Africa
+Cabo Verde,01-01-2013,75.059,2013,West Africa
+Cabo Verde,01-01-2014,75.24,2014,West Africa
+Cabo Verde,01-01-2015,74.62,2015,West Africa
+Cameroon,01-01-1975,49.718,1975,West Africa
+Cameroon,01-01-1976,49.88,1976,West Africa
+Cameroon,01-01-1977,49.995,1977,West Africa
+Cameroon,01-01-1978,50.28,1978,West Africa
+Cameroon,01-01-1979,50.575,1979,West Africa
+Cameroon,01-01-1980,51.041,1980,West Africa
+Cameroon,01-01-1981,51.517,1981,West Africa
+Cameroon,01-01-1982,52.085,1982,West Africa
+Cameroon,01-01-1983,52.762,1983,West Africa
+Cameroon,01-01-1984,53.22,1984,West Africa
+Cameroon,01-01-1985,53.899,1985,West Africa
+Cameroon,01-01-1986,54.037,1986,West Africa
+Cameroon,01-01-1987,54.724,1987,West Africa
+Cameroon,01-01-1988,54.934,1988,West Africa
+Cameroon,01-01-1989,54.947,1989,West Africa
+Cameroon,01-01-1990,54.868,1990,West Africa
+Cameroon,01-01-1991,54.658,1991,West Africa
+Cameroon,01-01-1992,54.481,1992,West Africa
+Cameroon,01-01-1993,54.062,1993,West Africa
+Cameroon,01-01-1994,53.528,1994,West Africa
+Cameroon,01-01-1995,53.222,1995,West Africa
+Cameroon,01-01-1996,52.82,1996,West Africa
+Cameroon,01-01-1997,52.737,1997,West Africa
+Cameroon,01-01-1998,52.582,1998,West Africa
+Cameroon,01-01-1999,52.695,1999,West Africa
+Cameroon,01-01-2000,52.932,2000,West Africa
+Cameroon,01-01-2001,53.142,2001,West Africa
+Cameroon,01-01-2002,53.415,2002,West Africa
+Cameroon,01-01-2003,53.883,2003,West Africa
+Cameroon,01-01-2004,54.178,2004,West Africa
+Cameroon,01-01-2005,54.362,2005,West Africa
+Cameroon,01-01-2006,54.856,2006,West Africa
+Cameroon,01-01-2007,55.165,2007,West Africa
+Cameroon,01-01-2008,55.655,2008,West Africa
+Cameroon,01-01-2009,56.102,2009,West Africa
+Cameroon,01-01-2010,56.582,2010,West Africa
+Cameroon,01-01-2011,57.133,2011,West Africa
+Cameroon,01-01-2012,57.792,2012,West Africa
+Cameroon,01-01-2013,58.476,2013,West Africa
+Cameroon,01-01-2014,58.935,2014,West Africa
+Cameroon,01-01-2015,59.658,2015,West Africa
+Central African Republic,01-01-1975,47.913,1975,Central Africa
+Central African Republic,01-01-1976,48.395,1976,Central Africa
+Central African Republic,01-01-1977,48.838,1977,Central Africa
+Central African Republic,01-01-1978,49.239,1978,Central Africa
+Central African Republic,01-01-1979,49.597,1979,Central Africa
+Central African Republic,01-01-1980,49.889,1980,Central Africa
+Central African Republic,01-01-1981,50.159,1981,Central Africa
+Central African Republic,01-01-1982,50.303,1982,Central Africa
+Central African Republic,01-01-1983,50.423,1983,Central Africa
+Central African Republic,01-01-1984,50.484,1984,Central Africa
+Central African Republic,01-01-1985,50.518,1985,Central Africa
+Central African Republic,01-01-1986,50.492,1986,Central Africa
+Central African Republic,01-01-1987,50.409,1987,Central Africa
+Central African Republic,01-01-1988,50.241,1988,Central Africa
+Central African Republic,01-01-1989,49.986,1989,Central Africa
+Central African Republic,01-01-1990,49.635,1990,Central Africa
+Central African Republic,01-01-1991,49.252,1991,Central Africa
+Central African Republic,01-01-1992,48.793,1992,Central Africa
+Central African Republic,01-01-1993,48.353,1993,Central Africa
+Central African Republic,01-01-1994,47.853,1994,Central Africa
+Central African Republic,01-01-1995,47.35,1995,Central Africa
+Central African Republic,01-01-1996,46.831,1996,Central Africa
+Central African Republic,01-01-1997,46.319,1997,Central Africa
+Central African Republic,01-01-1998,46.025,1998,Central Africa
+Central African Republic,01-01-1999,45.75,1999,Central Africa
+Central African Republic,01-01-2000,45.406,2000,Central Africa
+Central African Republic,01-01-2001,45.393,2001,Central Africa
+Central African Republic,01-01-2002,45.409,2002,Central Africa
+Central African Republic,01-01-2003,45.76,2003,Central Africa
+Central African Republic,01-01-2004,46.038,2004,Central Africa
+Central African Republic,01-01-2005,46.433,2005,Central Africa
+Central African Republic,01-01-2006,46.851,2006,Central Africa
+Central African Republic,01-01-2007,47.426,2007,Central Africa
+Central African Republic,01-01-2008,48.016,2008,Central Africa
+Central African Republic,01-01-2009,48.648,2009,Central Africa
+Central African Republic,01-01-2010,49.255,2010,Central Africa
+Central African Republic,01-01-2011,49.948,2011,Central Africa
+Central African Republic,01-01-2012,50.686,2012,Central Africa
+Central African Republic,01-01-2013,50.902,2013,Central Africa
+Central African Republic,01-01-2014,50.566,2014,Central Africa
+Central African Republic,01-01-2015,52.793,2015,Central Africa
+Chad,01-01-1975,41.872,1975,West Africa
+Chad,01-01-1976,42.036,1976,West Africa
+Chad,01-01-1977,42.255,1977,West Africa
+Chad,01-01-1978,42.504,1978,West Africa
+Chad,01-01-1979,42.81,1979,West Africa
+Chad,01-01-1980,43.06,1980,West Africa
+Chad,01-01-1981,43.312,1981,West Africa
+Chad,01-01-1982,43.73,1982,West Africa
+Chad,01-01-1983,44.179,1983,West Africa
+Chad,01-01-1984,44.515,1984,West Africa
+Chad,01-01-1985,45.05,1985,West Africa
+Chad,01-01-1986,45.21,1986,West Africa
+Chad,01-01-1987,42.798,1987,West Africa
+Chad,01-01-1988,45.785,1988,West Africa
+Chad,01-01-1989,45.875,1989,West Africa
+Chad,01-01-1990,44.686,1990,West Africa
+Chad,01-01-1991,45.941,1991,West Africa
+Chad,01-01-1992,46.102,1992,West Africa
+Chad,01-01-1993,46.318,1993,West Africa
+Chad,01-01-1994,46.449,1994,West Africa
+Chad,01-01-1995,46.711,1995,West Africa
+Chad,01-01-1996,47.013,1996,West Africa
+Chad,01-01-1997,47.217,1997,West Africa
+Chad,01-01-1998,47.224,1998,West Africa
+Chad,01-01-1999,47.372,1999,West Africa
+Chad,01-01-2000,47.443,2000,West Africa
+Chad,01-01-2001,47.85,2001,West Africa
+Chad,01-01-2002,47.946,2002,West Africa
+Chad,01-01-2003,48.206,2003,West Africa
+Chad,01-01-2004,48.232,2004,West Africa
+Chad,01-01-2005,48.312,2005,West Africa
+Chad,01-01-2006,48.286,2006,West Africa
+Chad,01-01-2007,48.751,2007,West Africa
+Chad,01-01-2008,49.024,2008,West Africa
+Chad,01-01-2009,49.196,2009,West Africa
+Chad,01-01-2010,49.584,2010,West Africa
+Chad,01-01-2011,50.009,2011,West Africa
+Chad,01-01-2012,50.54,2012,West Africa
+Chad,01-01-2013,50.781,2013,West Africa
+Chad,01-01-2014,51.202,2014,West Africa
+Chad,01-01-2015,51.589,2015,West Africa
+Comoros,01-01-1975,46.628,1975,West Africa
+Comoros,01-01-1976,48.523,1976,West Africa
+Comoros,01-01-1977,49.047,1977,West Africa
+Comoros,01-01-1978,49.67,1978,West Africa
+Comoros,01-01-1979,50.251,1979,West Africa
+Comoros,01-01-1980,50.8,1980,West Africa
+Comoros,01-01-1981,51.312,1981,West Africa
+Comoros,01-01-1982,51.895,1982,West Africa
+Comoros,01-01-1983,52.273,1983,West Africa
+Comoros,01-01-1984,52.941,1984,West Africa
+Comoros,01-01-1985,53.482,1985,West Africa
+Comoros,01-01-1986,54.029,1986,West Africa
+Comoros,01-01-1987,54.368,1987,West Africa
+Comoros,01-01-1988,54.95,1988,West Africa
+Comoros,01-01-1989,55.224,1989,West Africa
+Comoros,01-01-1990,55.84,1990,West Africa
+Comoros,01-01-1991,56.194,1991,West Africa
+Comoros,01-01-1992,56.733,1992,West Africa
+Comoros,01-01-1993,57.276,1993,West Africa
+Comoros,01-01-1994,57.694,1994,West Africa
+Comoros,01-01-1995,58.015,1995,West Africa
+Comoros,01-01-1996,58.344,1996,West Africa
+Comoros,01-01-1997,58.39,1997,West Africa
+Comoros,01-01-1998,58.407,1998,West Africa
+Comoros,01-01-1999,58.781,1999,West Africa
+Comoros,01-01-2000,58.757,2000,West Africa
+Comoros,01-01-2001,59.163,2001,West Africa
+Comoros,01-01-2002,59.056,2002,West Africa
+Comoros,01-01-2003,59.258,2003,West Africa
+Comoros,01-01-2004,59.48,2004,West Africa
+Comoros,01-01-2005,59.604,2005,West Africa
+Comoros,01-01-2006,59.875,2006,West Africa
+Comoros,01-01-2007,60.102,2007,West Africa
+Comoros,01-01-2008,60.475,2008,West Africa
+Comoros,01-01-2009,60.831,2009,West Africa
+Comoros,01-01-2010,61.123,2010,West Africa
+Comoros,01-01-2011,61.503,2011,West Africa
+Comoros,01-01-2012,61.834,2012,West Africa
+Comoros,01-01-2013,62.224,2013,West Africa
+Comoros,01-01-2014,62.516,2014,West Africa
+Comoros,01-01-2015,62.896,2015,West Africa
+Djibouti,01-01-1975,49.87,1975,East Africa
+Djibouti,01-01-1976,50.058,1976,East Africa
+Djibouti,01-01-1977,50.568,1977,East Africa
+Djibouti,01-01-1978,51.049,1978,East Africa
+Djibouti,01-01-1979,51.518,1979,East Africa
+Djibouti,01-01-1980,51.947,1980,East Africa
+Djibouti,01-01-1981,52.262,1981,East Africa
+Djibouti,01-01-1982,52.765,1982,East Africa
+Djibouti,01-01-1983,53.18,1983,East Africa
+Djibouti,01-01-1984,53.703,1984,East Africa
+Djibouti,01-01-1985,54.067,1985,East Africa
+Djibouti,01-01-1986,54.481,1986,East Africa
+Djibouti,01-01-1987,54.775,1987,East Africa
+Djibouti,01-01-1988,55.161,1988,East Africa
+Djibouti,01-01-1989,55.273,1989,East Africa
+Djibouti,01-01-1990,55.498,1990,East Africa
+Djibouti,01-01-1991,55.156,1991,East Africa
+Djibouti,01-01-1992,54.452,1992,East Africa
+Djibouti,01-01-1993,55.774,1993,East Africa
+Djibouti,01-01-1994,55.505,1994,East Africa
+Djibouti,01-01-1995,56.302,1995,East Africa
+Djibouti,01-01-1996,56.186,1996,East Africa
+Djibouti,01-01-1997,55.967,1997,East Africa
+Djibouti,01-01-1998,56.176,1998,East Africa
+Djibouti,01-01-1999,56.427,1999,East Africa
+Djibouti,01-01-2000,56.573,2000,East Africa
+Djibouti,01-01-2001,56.903,2001,East Africa
+Djibouti,01-01-2002,57.215,2002,East Africa
+Djibouti,01-01-2003,57.595,2003,East Africa
+Djibouti,01-01-2004,57.759,2004,East Africa
+Djibouti,01-01-2005,58.316,2005,East Africa
+Djibouti,01-01-2006,58.715,2006,East Africa
+Djibouti,01-01-2007,59.024,2007,East Africa
+Djibouti,01-01-2008,59.365,2008,East Africa
+Djibouti,01-01-2009,59.673,2009,East Africa
+Djibouti,01-01-2010,60.259,2010,East Africa
+Djibouti,01-01-2011,60.433,2011,East Africa
+Djibouti,01-01-2012,60.848,2012,East Africa
+Djibouti,01-01-2013,61.221,2013,East Africa
+Djibouti,01-01-2014,61.641,2014,East Africa
+Djibouti,01-01-2015,61.957,2015,East Africa
+Equatorial Guinea,01-01-1975,35.812,1975,Central Africa
+Equatorial Guinea,01-01-1976,28.921,1976,Central Africa
+Equatorial Guinea,01-01-1977,40.501,1977,Central Africa
+Equatorial Guinea,01-01-1978,40.793,1978,Central Africa
+Equatorial Guinea,01-01-1979,41.653,1979,Central Africa
+Equatorial Guinea,01-01-1980,47.563,1980,Central Africa
+Equatorial Guinea,01-01-1981,48.109,1981,Central Africa
+Equatorial Guinea,01-01-1982,48.596,1982,Central Africa
+Equatorial Guinea,01-01-1983,49.007,1983,Central Africa
+Equatorial Guinea,01-01-1984,49.208,1984,Central Africa
+Equatorial Guinea,01-01-1985,49.683,1985,Central Africa
+Equatorial Guinea,01-01-1986,50.039,1986,Central Africa
+Equatorial Guinea,01-01-1987,50.279,1987,Central Africa
+Equatorial Guinea,01-01-1988,50.504,1988,Central Africa
+Equatorial Guinea,01-01-1989,50.668,1989,Central Africa
+Equatorial Guinea,01-01-1990,50.86,1990,Central Africa
+Equatorial Guinea,01-01-1991,50.969,1991,Central Africa
+Equatorial Guinea,01-01-1992,51.113,1992,Central Africa
+Equatorial Guinea,01-01-1993,51.308,1993,Central Africa
+Equatorial Guinea,01-01-1994,51.415,1994,Central Africa
+Equatorial Guinea,01-01-1995,51.592,1995,Central Africa
+Equatorial Guinea,01-01-1996,51.727,1996,Central Africa
+Equatorial Guinea,01-01-1997,52.061,1997,Central Africa
+Equatorial Guinea,01-01-1998,52.382,1998,Central Africa
+Equatorial Guinea,01-01-1999,52.752,1999,Central Africa
+Equatorial Guinea,01-01-2000,53.226,2000,Central Africa
+Equatorial Guinea,01-01-2001,53.636,2001,Central Africa
+Equatorial Guinea,01-01-2002,54.085,2002,Central Africa
+Equatorial Guinea,01-01-2003,54.581,2003,Central Africa
+Equatorial Guinea,01-01-2004,55.036,2004,Central Africa
+Equatorial Guinea,01-01-2005,55.464,2005,Central Africa
+Equatorial Guinea,01-01-2006,56.046,2006,Central Africa
+Equatorial Guinea,01-01-2007,56.54,2007,Central Africa
+Equatorial Guinea,01-01-2008,57.074,2008,Central Africa
+Equatorial Guinea,01-01-2009,57.431,2009,Central Africa
+Equatorial Guinea,01-01-2010,57.878,2010,Central Africa
+Equatorial Guinea,01-01-2011,58.412,2011,Central Africa
+Equatorial Guinea,01-01-2012,58.865,2012,Central Africa
+Equatorial Guinea,01-01-2013,59.224,2013,Central Africa
+Equatorial Guinea,01-01-2014,59.595,2014,Central Africa
+Equatorial Guinea,01-01-2015,60.103,2015,Central Africa
+Eritrea,01-01-1975,42.24,1975,East Africa
+Eritrea,01-01-1976,42.656,1976,East Africa
+Eritrea,01-01-1977,43.175,1977,East Africa
+Eritrea,01-01-1978,43.561,1978,East Africa
+Eritrea,01-01-1979,43.972,1979,East Africa
+Eritrea,01-01-1980,44.585,1980,East Africa
+Eritrea,01-01-1981,44.905,1981,East Africa
+Eritrea,01-01-1982,44.86,1982,East Africa
+Eritrea,01-01-1983,45.323,1983,East Africa
+Eritrea,01-01-1984,45.777,1984,East Africa
+Eritrea,01-01-1985,46.145,1985,East Africa
+Eritrea,01-01-1986,47.075,1986,East Africa
+Eritrea,01-01-1987,47.333,1987,East Africa
+Eritrea,01-01-1988,48.015,1988,East Africa
+Eritrea,01-01-1989,47.828,1989,East Africa
+Eritrea,01-01-1990,49.769,1990,East Africa
+Eritrea,01-01-1991,50.607,1991,East Africa
+Eritrea,01-01-1992,52.465,1992,East Africa
+Eritrea,01-01-1993,53.234,1993,East Africa
+Eritrea,01-01-1994,54.1,1994,East Africa
+Eritrea,01-01-1995,54.914,1995,East Africa
+Eritrea,01-01-1996,55.756,1996,East Africa
+Eritrea,01-01-1997,56.312,1997,East Africa
+Eritrea,01-01-1998,49.158,1998,East Africa
+Eritrea,01-01-1999,43.397,1999,East Africa
+Eritrea,01-01-2000,56.111,2000,East Africa
+Eritrea,01-01-2001,58.298,2001,East Africa
+Eritrea,01-01-2002,58.811,2002,East Africa
+Eritrea,01-01-2003,59.409,2003,East Africa
+Eritrea,01-01-2004,59.899,2004,East Africa
+Eritrea,01-01-2005,60.597,2005,East Africa
+Eritrea,01-01-2006,61.611,2006,East Africa
+Eritrea,01-01-2007,62.116,2007,East Africa
+Eritrea,01-01-2008,62.573,2008,East Africa
+Eritrea,01-01-2009,63.328,2009,East Africa
+Eritrea,01-01-2010,63.787,2010,East Africa
+Eritrea,01-01-2011,64.402,2011,East Africa
+Eritrea,01-01-2012,64.838,2012,East Africa
+Eritrea,01-01-2013,65.067,2013,East Africa
+Eritrea,01-01-2014,65.6,2014,East Africa
+Eritrea,01-01-2015,66.033,2015,East Africa
+Eswatini,01-01-1975,53.824,1975,Southern Africa
+Eswatini,01-01-1976,54.658,1976,Southern Africa
+Eswatini,01-01-1977,55.598,1977,Southern Africa
+Eswatini,01-01-1978,56.477,1978,Southern Africa
+Eswatini,01-01-1979,57.268,1979,Southern Africa
+Eswatini,01-01-1980,57.846,1980,Southern Africa
+Eswatini,01-01-1981,58.392,1981,Southern Africa
+Eswatini,01-01-1982,59.02,1982,Southern Africa
+Eswatini,01-01-1983,58.172,1983,Southern Africa
+Eswatini,01-01-1984,59.999,1984,Southern Africa
+Eswatini,01-01-1985,60.785,1985,Southern Africa
+Eswatini,01-01-1986,61.438,1986,Southern Africa
+Eswatini,01-01-1987,62.042,1987,Southern Africa
+Eswatini,01-01-1988,62.673,1988,Southern Africa
+Eswatini,01-01-1989,62.927,1989,Southern Africa
+Eswatini,01-01-1990,63.072,1990,Southern Africa
+Eswatini,01-01-1991,62.685,1991,Southern Africa
+Eswatini,01-01-1992,61.735,1992,Southern Africa
+Eswatini,01-01-1993,60.233,1993,Southern Africa
+Eswatini,01-01-1994,58.268,1994,Southern Africa
+Eswatini,01-01-1995,56.148,1995,Southern Africa
+Eswatini,01-01-1996,53.873,1996,Southern Africa
+Eswatini,01-01-1997,52.044,1997,Southern Africa
+Eswatini,01-01-1998,50.333,1998,Southern Africa
+Eswatini,01-01-1999,48.733,1999,Southern Africa
+Eswatini,01-01-2000,47.256,2000,Southern Africa
+Eswatini,01-01-2001,45.975,2001,Southern Africa
+Eswatini,01-01-2002,44.486,2002,Southern Africa
+Eswatini,01-01-2003,43.349,2003,Southern Africa
+Eswatini,01-01-2004,42.538,2004,Southern Africa
+Eswatini,01-01-2005,42.125,2005,Southern Africa
+Eswatini,01-01-2006,43.12,2006,Southern Africa
+Eswatini,01-01-2007,43.641,2007,Southern Africa
+Eswatini,01-01-2008,44.175,2008,Southern Africa
+Eswatini,01-01-2009,44.639,2009,Southern Africa
+Eswatini,01-01-2010,46.619,2010,Southern Africa
+Eswatini,01-01-2011,48.195,2011,Southern Africa
+Eswatini,01-01-2012,49.835,2012,Southern Africa
+Eswatini,01-01-2013,51.486,2013,Southern Africa
+Eswatini,01-01-2014,53.05,2014,Southern Africa
+Eswatini,01-01-2015,55.019,2015,Southern Africa
+Ethiopia,01-01-1975,39.356,1975,East Africa
+Ethiopia,01-01-1976,41.895,1976,East Africa
+Ethiopia,01-01-1977,41.893,1977,East Africa
+Ethiopia,01-01-1978,41.9,1978,East Africa
+Ethiopia,01-01-1979,42.807,1979,East Africa
+Ethiopia,01-01-1980,43.217,1980,East Africa
+Ethiopia,01-01-1981,43.608,1981,East Africa
+Ethiopia,01-01-1982,43.767,1982,East Africa
+Ethiopia,01-01-1983,36.036,1983,East Africa
+Ethiopia,01-01-1984,36.429,1984,East Africa
+Ethiopia,01-01-1985,37.364,1985,East Africa
+Ethiopia,01-01-1986,37.811,1986,East Africa
+Ethiopia,01-01-1987,45.44,1987,East Africa
+Ethiopia,01-01-1988,45.061,1988,East Africa
+Ethiopia,01-01-1989,45.036,1989,East Africa
+Ethiopia,01-01-1990,44.557,1990,East Africa
+Ethiopia,01-01-1991,46.13,1991,East Africa
+Ethiopia,01-01-1992,46.901,1992,East Africa
+Ethiopia,01-01-1993,47.394,1993,East Africa
+Ethiopia,01-01-1994,47.861,1994,East Africa
+Ethiopia,01-01-1995,48.302,1995,East Africa
+Ethiopia,01-01-1996,48.924,1996,East Africa
+Ethiopia,01-01-1997,49.514,1997,East Africa
+Ethiopia,01-01-1998,49.927,1998,East Africa
+Ethiopia,01-01-1999,49.425,1999,East Africa
+Ethiopia,01-01-2000,50.538,2000,East Africa
+Ethiopia,01-01-2001,51.043,2001,East Africa
+Ethiopia,01-01-2002,51.517,2002,East Africa
+Ethiopia,01-01-2003,52.533,2003,East Africa
+Ethiopia,01-01-2004,53.235,2004,East Africa
+Ethiopia,01-01-2005,54.008,2005,East Africa
+Ethiopia,01-01-2006,55.149,2006,East Africa
+Ethiopia,01-01-2007,56.426,2007,East Africa
+Ethiopia,01-01-2008,57.592,2008,East Africa
+Ethiopia,01-01-2009,58.804,2009,East Africa
+Ethiopia,01-01-2010,59.73,2010,East Africa
+Ethiopia,01-01-2011,60.721,2011,East Africa
+Ethiopia,01-01-2012,61.543,2012,East Africa
+Ethiopia,01-01-2013,62.373,2013,East Africa
+Ethiopia,01-01-2014,62.905,2014,East Africa
+Ethiopia,01-01-2015,63.649,2015,East Africa
+Gabon,01-01-1975,55.035,1975,Central Africa
+Gabon,01-01-1976,55.569,1976,Central Africa
+Gabon,01-01-1977,56.089,1977,Central Africa
+Gabon,01-01-1978,56.659,1978,Central Africa
+Gabon,01-01-1979,57.053,1979,Central Africa
+Gabon,01-01-1980,57.454,1980,Central Africa
+Gabon,01-01-1981,57.816,1981,Central Africa
+Gabon,01-01-1982,58.106,1982,Central Africa
+Gabon,01-01-1983,58.601,1983,Central Africa
+Gabon,01-01-1984,58.894,1984,Central Africa
+Gabon,01-01-1985,59.311,1985,Central Africa
+Gabon,01-01-1986,59.641,1986,Central Africa
+Gabon,01-01-1987,59.894,1987,Central Africa
+Gabon,01-01-1988,60.006,1988,Central Africa
+Gabon,01-01-1989,60.265,1989,Central Africa
+Gabon,01-01-1990,60.311,1990,Central Africa
+Gabon,01-01-1991,60.397,1991,Central Africa
+Gabon,01-01-1992,60.545,1992,Central Africa
+Gabon,01-01-1993,60.718,1993,Central Africa
+Gabon,01-01-1994,60.701,1994,Central Africa
+Gabon,01-01-1995,60.704,1995,Central Africa
+Gabon,01-01-1996,60.612,1996,Central Africa
+Gabon,01-01-1997,60.662,1997,Central Africa
+Gabon,01-01-1998,60.79,1998,Central Africa
+Gabon,01-01-1999,60.849,1999,Central Africa
+Gabon,01-01-2000,61.069,2000,Central Africa
+Gabon,01-01-2001,61.27,2001,Central Africa
+Gabon,01-01-2002,61.292,2002,Central Africa
+Gabon,01-01-2003,61.671,2003,Central Africa
+Gabon,01-01-2004,61.838,2004,Central Africa
+Gabon,01-01-2005,61.959,2005,Central Africa
+Gabon,01-01-2006,62.375,2006,Central Africa
+Gabon,01-01-2007,62.618,2007,Central Africa
+Gabon,01-01-2008,63.083,2008,Central Africa
+Gabon,01-01-2009,63.303,2009,Central Africa
+Gabon,01-01-2010,63.898,2010,Central Africa
+Gabon,01-01-2011,64.045,2011,Central Africa
+Gabon,01-01-2012,64.587,2012,Central Africa
+Gabon,01-01-2013,64.776,2013,Central Africa
+Gabon,01-01-2014,64.974,2014,Central Africa
+Gabon,01-01-2015,65.46,2015,Central Africa
+Ghana,01-01-1975,49.246,1975,West Africa
+Ghana,01-01-1976,49.764,1976,West Africa
+Ghana,01-01-1977,50.085,1977,West Africa
+Ghana,01-01-1978,50.571,1978,West Africa
+Ghana,01-01-1979,50.932,1979,West Africa
+Ghana,01-01-1980,51.117,1980,West Africa
+Ghana,01-01-1981,51.269,1981,West Africa
+Ghana,01-01-1982,51.383,1982,West Africa
+Ghana,01-01-1983,51.622,1983,West Africa
+Ghana,01-01-1984,52.051,1984,West Africa
+Ghana,01-01-1985,52.416,1985,West Africa
+Ghana,01-01-1986,53.125,1986,West Africa
+Ghana,01-01-1987,53.824,1987,West Africa
+Ghana,01-01-1988,54.507,1988,West Africa
+Ghana,01-01-1989,55.191,1989,West Africa
+Ghana,01-01-1990,55.62,1990,West Africa
+Ghana,01-01-1991,56.012,1991,West Africa
+Ghana,01-01-1992,56.231,1992,West Africa
+Ghana,01-01-1993,56.416,1993,West Africa
+Ghana,01-01-1994,56.112,1994,West Africa
+Ghana,01-01-1995,56.565,1995,West Africa
+Ghana,01-01-1996,56.82,1996,West Africa
+Ghana,01-01-1997,57.199,1997,West Africa
+Ghana,01-01-1998,57.6,1998,West Africa
+Ghana,01-01-1999,58.03,1999,West Africa
+Ghana,01-01-2000,58.195,2000,West Africa
+Ghana,01-01-2001,58.107,2001,West Africa
+Ghana,01-01-2002,58.608,2002,West Africa
+Ghana,01-01-2003,59.111,2003,West Africa
+Ghana,01-01-2004,59.191,2004,West Africa
+Ghana,01-01-2005,59.76,2005,West Africa
+Ghana,01-01-2006,59.988,2006,West Africa
+Ghana,01-01-2007,60.224,2007,West Africa
+Ghana,01-01-2008,60.49,2008,West Africa
+Ghana,01-01-2009,60.946,2009,West Africa
+Ghana,01-01-2010,61.157,2010,West Africa
+Ghana,01-01-2011,61.652,2011,West Africa
+Ghana,01-01-2012,62.081,2012,West Africa
+Ghana,01-01-2013,62.42,2013,West Africa
+Ghana,01-01-2014,63.045,2014,West Africa
+Ghana,01-01-2015,63.175,2015,West Africa
+Guinea,01-01-1975,40.591,1975,West Africa
+Guinea,01-01-1976,41.024,1976,West Africa
+Guinea,01-01-1977,41.411,1977,West Africa
+Guinea,01-01-1978,41.901,1978,West Africa
+Guinea,01-01-1979,42.393,1979,West Africa
+Guinea,01-01-1980,42.884,1980,West Africa
+Guinea,01-01-1981,43.324,1981,West Africa
+Guinea,01-01-1982,43.925,1982,West Africa
+Guinea,01-01-1983,44.382,1983,West Africa
+Guinea,01-01-1984,44.946,1984,West Africa
+Guinea,01-01-1985,45.522,1985,West Africa
+Guinea,01-01-1986,45.918,1986,West Africa
+Guinea,01-01-1987,46.417,1987,West Africa
+Guinea,01-01-1988,46.589,1988,West Africa
+Guinea,01-01-1989,46.847,1989,West Africa
+Guinea,01-01-1990,47.004,1990,West Africa
+Guinea,01-01-1991,47.546,1991,West Africa
+Guinea,01-01-1992,48.363,1992,West Africa
+Guinea,01-01-1993,48.962,1993,West Africa
+Guinea,01-01-1994,49.171,1994,West Africa
+Guinea,01-01-1995,49.866,1995,West Africa
+Guinea,01-01-1996,50.544,1996,West Africa
+Guinea,01-01-1997,51.356,1997,West Africa
+Guinea,01-01-1998,52.049,1998,West Africa
+Guinea,01-01-1999,52.356,1999,West Africa
+Guinea,01-01-2000,52.479,2000,West Africa
+Guinea,01-01-2001,52.662,2001,West Africa
+Guinea,01-01-2002,53.278,2002,West Africa
+Guinea,01-01-2003,53.678,2003,West Africa
+Guinea,01-01-2004,54.117,2004,West Africa
+Guinea,01-01-2005,54.632,2005,West Africa
+Guinea,01-01-2006,55.108,2006,West Africa
+Guinea,01-01-2007,55.553,2007,West Africa
+Guinea,01-01-2008,56.044,2008,West Africa
+Guinea,01-01-2009,56.348,2009,West Africa
+Guinea,01-01-2010,56.72,2010,West Africa
+Guinea,01-01-2011,57.019,2011,West Africa
+Guinea,01-01-2012,57.406,2012,West Africa
+Guinea,01-01-2013,57.791,2013,West Africa
+Guinea,01-01-2014,57.886,2014,West Africa
+Guinea,01-01-2015,58.134,2015,West Africa
+Guinea-Bissau,01-01-1975,42.053,1975,West Africa
+Guinea-Bissau,01-01-1976,42.419,1976,West Africa
+Guinea-Bissau,01-01-1977,42.718,1977,West Africa
+Guinea-Bissau,01-01-1978,43.033,1978,West Africa
+Guinea-Bissau,01-01-1979,43.39,1979,West Africa
+Guinea-Bissau,01-01-1980,43.754,1980,West Africa
+Guinea-Bissau,01-01-1981,44.07,1981,West Africa
+Guinea-Bissau,01-01-1982,44.374,1982,West Africa
+Guinea-Bissau,01-01-1983,44.635,1983,West Africa
+Guinea-Bissau,01-01-1984,44.829,1984,West Africa
+Guinea-Bissau,01-01-1985,45.104,1985,West Africa
+Guinea-Bissau,01-01-1986,45.446,1986,West Africa
+Guinea-Bissau,01-01-1987,45.785,1987,West Africa
+Guinea-Bissau,01-01-1988,46.321,1988,West Africa
+Guinea-Bissau,01-01-1989,46.7,1989,West Africa
+Guinea-Bissau,01-01-1990,47.084,1990,West Africa
+Guinea-Bissau,01-01-1991,47.465,1991,West Africa
+Guinea-Bissau,01-01-1992,47.92,1992,West Africa
+Guinea-Bissau,01-01-1993,48.228,1993,West Africa
+Guinea-Bissau,01-01-1994,48.156,1994,West Africa
+Guinea-Bissau,01-01-1995,48.952,1995,West Africa
+Guinea-Bissau,01-01-1996,49.065,1996,West Africa
+Guinea-Bissau,01-01-1997,47.997,1997,West Africa
+Guinea-Bissau,01-01-1998,47.716,1998,West Africa
+Guinea-Bissau,01-01-1999,48.006,1999,West Africa
+Guinea-Bissau,01-01-2000,50.121,2000,West Africa
+Guinea-Bissau,01-01-2001,50.445,2001,West Africa
+Guinea-Bissau,01-01-2002,50.986,2002,West Africa
+Guinea-Bissau,01-01-2003,51.405,2003,West Africa
+Guinea-Bissau,01-01-2004,52.15,2004,West Africa
+Guinea-Bissau,01-01-2005,52.249,2005,West Africa
+Guinea-Bissau,01-01-2006,53.371,2006,West Africa
+Guinea-Bissau,01-01-2007,54.155,2007,West Africa
+Guinea-Bissau,01-01-2008,54.646,2008,West Africa
+Guinea-Bissau,01-01-2009,55.541,2009,West Africa
+Guinea-Bissau,01-01-2010,56.23,2010,West Africa
+Guinea-Bissau,01-01-2011,56.967,2011,West Africa
+Guinea-Bissau,01-01-2012,57.69,2012,West Africa
+Guinea-Bissau,01-01-2013,58.232,2013,West Africa
+Guinea-Bissau,01-01-2014,58.61,2014,West Africa
+Guinea-Bissau,01-01-2015,59.128,2015,West Africa
+Kenya,01-01-1975,55.826,1975,East Africa
+Kenya,01-01-1976,55.895,1976,East Africa
+Kenya,01-01-1977,56.486,1977,East Africa
+Kenya,01-01-1978,56.944,1978,East Africa
+Kenya,01-01-1979,57.722,1979,East Africa
+Kenya,01-01-1980,58.501,1980,East Africa
+Kenya,01-01-1981,61.165,1981,East Africa
+Kenya,01-01-1982,60.953,1982,East Africa
+Kenya,01-01-1983,61.012,1983,East Africa
+Kenya,01-01-1984,60.804,1984,East Africa
+Kenya,01-01-1985,60.58,1985,East Africa
+Kenya,01-01-1986,60.216,1986,East Africa
+Kenya,01-01-1987,60.044,1987,East Africa
+Kenya,01-01-1988,59.539,1988,East Africa
+Kenya,01-01-1989,59.04,1989,East Africa
+Kenya,01-01-1990,58.614,1990,East Africa
+Kenya,01-01-1991,58.005,1991,East Africa
+Kenya,01-01-1992,57.259,1992,East Africa
+Kenya,01-01-1993,56.617,1993,East Africa
+Kenya,01-01-1994,56.273,1994,East Africa
+Kenya,01-01-1995,55.617,1995,East Africa
+Kenya,01-01-1996,55.161,1996,East Africa
+Kenya,01-01-1997,54.816,1997,East Africa
+Kenya,01-01-1998,54.526,1998,East Africa
+Kenya,01-01-1999,54.495,1999,East Africa
+Kenya,01-01-2000,54.411,2000,East Africa
+Kenya,01-01-2001,54.508,2001,East Africa
+Kenya,01-01-2002,54.99,2002,East Africa
+Kenya,01-01-2003,55.601,2003,East Africa
+Kenya,01-01-2004,56.361,2004,East Africa
+Kenya,01-01-2005,57.344,2005,East Africa
+Kenya,01-01-2006,58.222,2006,East Africa
+Kenya,01-01-2007,58.865,2007,East Africa
+Kenya,01-01-2008,59.614,2008,East Africa
+Kenya,01-01-2009,60.365,2009,East Africa
+Kenya,01-01-2010,60.649,2010,East Africa
+Kenya,01-01-2011,61.046,2011,East Africa
+Kenya,01-01-2012,61.115,2012,East Africa
+Kenya,01-01-2013,61.389,2013,East Africa
+Kenya,01-01-2014,61.816,2014,East Africa
+Kenya,01-01-2015,61.892,2015,East Africa
+Lesotho,01-01-1975,52.987,1975,Southern Africa
+Lesotho,01-01-1976,53.487,1976,Southern Africa
+Lesotho,01-01-1977,54.045,1977,Southern Africa
+Lesotho,01-01-1978,54.669,1978,Southern Africa
+Lesotho,01-01-1979,55.338,1979,Southern Africa
+Lesotho,01-01-1980,56.058,1980,Southern Africa
+Lesotho,01-01-1981,56.902,1981,Southern Africa
+Lesotho,01-01-1982,57.565,1982,Southern Africa
+Lesotho,01-01-1983,58.094,1983,Southern Africa
+Lesotho,01-01-1984,58.635,1984,Southern Africa
+Lesotho,01-01-1985,59.104,1985,Southern Africa
+Lesotho,01-01-1986,59.455,1986,Southern Africa
+Lesotho,01-01-1987,59.495,1987,Southern Africa
+Lesotho,01-01-1988,59.62,1988,Southern Africa
+Lesotho,01-01-1989,59.531,1989,Southern Africa
+Lesotho,01-01-1990,59.398,1990,Southern Africa
+Lesotho,01-01-1991,59.193,1991,Southern Africa
+Lesotho,01-01-1992,58.555,1992,Southern Africa
+Lesotho,01-01-1993,57.991,1993,Southern Africa
+Lesotho,01-01-1994,58.018,1994,Southern Africa
+Lesotho,01-01-1995,56.723,1995,Southern Africa
+Lesotho,01-01-1996,55.232,1996,Southern Africa
+Lesotho,01-01-1997,53.594,1997,Southern Africa
+Lesotho,01-01-1998,51.783,1998,Southern Africa
+Lesotho,01-01-1999,50.081,1999,Southern Africa
+Lesotho,01-01-2000,48.427,2000,Southern Africa
+Lesotho,01-01-2001,46.849,2001,Southern Africa
+Lesotho,01-01-2002,45.595,2002,Southern Africa
+Lesotho,01-01-2003,44.53,2003,Southern Africa
+Lesotho,01-01-2004,43.711,2004,Southern Africa
+Lesotho,01-01-2005,43.233,2005,Southern Africa
+Lesotho,01-01-2006,42.914,2006,Southern Africa
+Lesotho,01-01-2007,43.123,2007,Southern Africa
+Lesotho,01-01-2008,43.566,2008,Southern Africa
+Lesotho,01-01-2009,44.034,2009,Southern Africa
+Lesotho,01-01-2010,45.596,2010,Southern Africa
+Lesotho,01-01-2011,46.692,2011,Southern Africa
+Lesotho,01-01-2012,47.835,2012,Southern Africa
+Lesotho,01-01-2013,49.002,2013,Southern Africa
+Lesotho,01-01-2014,50.033,2014,Southern Africa
+Lesotho,01-01-2015,51.101,2015,Southern Africa
+Liberia,01-01-1975,42.774,1975,West Africa
+Liberia,01-01-1976,43.183,1976,West Africa
+Liberia,01-01-1977,43.619,1977,West Africa
+Liberia,01-01-1978,44.046,1978,West Africa
+Liberia,01-01-1979,44.349,1979,West Africa
+Liberia,01-01-1980,44.631,1980,West Africa
+Liberia,01-01-1981,44.983,1981,West Africa
+Liberia,01-01-1982,45.204,1982,West Africa
+Liberia,01-01-1983,45.383,1983,West Africa
+Liberia,01-01-1984,45.436,1984,West Africa
+Liberia,01-01-1985,44.664,1985,West Africa
+Liberia,01-01-1986,45.005,1986,West Africa
+Liberia,01-01-1987,44.528,1987,West Africa
+Liberia,01-01-1988,43.993,1988,West Africa
+Liberia,01-01-1989,43.451,1989,West Africa
+Liberia,01-01-1990,36.688,1990,West Africa
+Liberia,01-01-1991,42.795,1991,West Africa
+Liberia,01-01-1992,42.738,1992,West Africa
+Liberia,01-01-1993,42.166,1993,West Africa
+Liberia,01-01-1994,41.796,1994,West Africa
+Liberia,01-01-1995,43.917,1995,West Africa
+Liberia,01-01-1996,44.419,1996,West Africa
+Liberia,01-01-1997,47.847,1997,West Africa
+Liberia,01-01-1998,48.901,1998,West Africa
+Liberia,01-01-1999,49.953,1999,West Africa
+Liberia,01-01-2000,51.356,2000,West Africa
+Liberia,01-01-2001,52.752,2001,West Africa
+Liberia,01-01-2002,53.788,2002,West Africa
+Liberia,01-01-2003,53.042,2003,West Africa
+Liberia,01-01-2004,56.013,2004,West Africa
+Liberia,01-01-2005,56.912,2005,West Africa
+Liberia,01-01-2006,57.62,2006,West Africa
+Liberia,01-01-2007,58.285,2007,West Africa
+Liberia,01-01-2008,58.772,2008,West Africa
+Liberia,01-01-2009,59.194,2009,West Africa
+Liberia,01-01-2010,59.433,2010,West Africa
+Liberia,01-01-2011,59.62,2011,West Africa
+Liberia,01-01-2012,59.913,2012,West Africa
+Liberia,01-01-2013,59.943,2013,West Africa
+Liberia,01-01-2014,59.121,2014,West Africa
+Liberia,01-01-2015,59.148,2015,West Africa
+Libya,01-01-1975,60.81,1975,North Africa
+Libya,01-01-1976,62.06,1976,North Africa
+Libya,01-01-1977,62.786,1977,North Africa
+Libya,01-01-1978,63.567,1978,North Africa
+Libya,01-01-1979,64.26,1979,North Africa
+Libya,01-01-1980,64.891,1980,North Africa
+Libya,01-01-1981,65.364,1981,North Africa
+Libya,01-01-1982,65.807,1982,North Africa
+Libya,01-01-1983,66.41,1983,North Africa
+Libya,01-01-1984,66.872,1984,North Africa
+Libya,01-01-1985,67.29,1985,North Africa
+Libya,01-01-1986,67.774,1986,North Africa
+Libya,01-01-1987,68.196,1987,North Africa
+Libya,01-01-1988,68.622,1988,North Africa
+Libya,01-01-1989,68.99,1989,North Africa
+Libya,01-01-1990,69.423,1990,North Africa
+Libya,01-01-1991,69.82,1991,North Africa
+Libya,01-01-1992,70.232,1992,North Africa
+Libya,01-01-1993,70.42,1993,North Africa
+Libya,01-01-1994,70.706,1994,North Africa
+Libya,01-01-1995,71.09,1995,North Africa
+Libya,01-01-1996,71.284,1996,North Africa
+Libya,01-01-1997,71.129,1997,North Africa
+Libya,01-01-1998,71.079,1998,North Africa
+Libya,01-01-1999,71.058,1999,North Africa
+Libya,01-01-2000,70.68,2000,North Africa
+Libya,01-01-2001,70.861,2001,North Africa
+Libya,01-01-2002,71.004,2002,North Africa
+Libya,01-01-2003,71.132,2003,North Africa
+Libya,01-01-2004,71.49,2004,North Africa
+Libya,01-01-2005,71.592,2005,North Africa
+Libya,01-01-2006,71.724,2006,North Africa
+Libya,01-01-2007,71.863,2007,North Africa
+Libya,01-01-2008,72.269,2008,North Africa
+Libya,01-01-2009,72.356,2009,North Africa
+Libya,01-01-2010,72.374,2010,North Africa
+Libya,01-01-2011,70.071,2011,North Africa
+Libya,01-01-2012,72.247,2012,North Africa
+Libya,01-01-2013,72.34,2013,North Africa
+Libya,01-01-2014,71.511,2014,North Africa
+Libya,01-01-2015,71.698,2015,North Africa
+Madagascar,01-01-1975,49.527,1975,East Africa
+Madagascar,01-01-1976,49.666,1976,East Africa
+Madagascar,01-01-1977,49.757,1977,East Africa
+Madagascar,01-01-1978,49.813,1978,East Africa
+Madagascar,01-01-1979,49.851,1979,East Africa
+Madagascar,01-01-1980,49.821,1980,East Africa
+Madagascar,01-01-1981,49.727,1981,East Africa
+Madagascar,01-01-1982,49.633,1982,East Africa
+Madagascar,01-01-1983,49.566,1983,East Africa
+Madagascar,01-01-1984,49.545,1984,East Africa
+Madagascar,01-01-1985,49.638,1985,East Africa
+Madagascar,01-01-1986,49.806,1986,East Africa
+Madagascar,01-01-1987,50.209,1987,East Africa
+Madagascar,01-01-1988,50.594,1988,East Africa
+Madagascar,01-01-1989,51.107,1989,East Africa
+Madagascar,01-01-1990,51.701,1990,East Africa
+Madagascar,01-01-1991,52.357,1991,East Africa
+Madagascar,01-01-1992,53.039,1992,East Africa
+Madagascar,01-01-1993,53.906,1993,East Africa
+Madagascar,01-01-1994,54.436,1994,East Africa
+Madagascar,01-01-1995,54.961,1995,East Africa
+Madagascar,01-01-1996,55.522,1996,East Africa
+Madagascar,01-01-1997,56.223,1997,East Africa
+Madagascar,01-01-1998,56.917,1998,East Africa
+Madagascar,01-01-1999,57.372,1999,East Africa
+Madagascar,01-01-2000,57.938,2000,East Africa
+Madagascar,01-01-2001,58.57,2001,East Africa
+Madagascar,01-01-2002,58.892,2002,East Africa
+Madagascar,01-01-2003,59.491,2003,East Africa
+Madagascar,01-01-2004,60.149,2004,East Africa
+Madagascar,01-01-2005,60.57,2005,East Africa
+Madagascar,01-01-2006,61.315,2006,East Africa
+Madagascar,01-01-2007,61.757,2007,East Africa
+Madagascar,01-01-2008,62.142,2008,East Africa
+Madagascar,01-01-2009,62.734,2009,East Africa
+Madagascar,01-01-2010,62.873,2010,East Africa
+Madagascar,01-01-2011,63.494,2011,East Africa
+Madagascar,01-01-2012,63.544,2012,East Africa
+Madagascar,01-01-2013,63.962,2013,East Africa
+Madagascar,01-01-2014,64.255,2014,East Africa
+Madagascar,01-01-2015,64.339,2015,East Africa
+Malawi,01-01-1975,40.222,1975,East Africa
+Malawi,01-01-1976,41.227,1976,East Africa
+Malawi,01-01-1977,42.233,1977,East Africa
+Malawi,01-01-1978,43.29,1978,East Africa
+Malawi,01-01-1979,44.268,1979,East Africa
+Malawi,01-01-1980,45.094,1980,East Africa
+Malawi,01-01-1981,45.701,1981,East Africa
+Malawi,01-01-1982,45.991,1982,East Africa
+Malawi,01-01-1983,46.038,1983,East Africa
+Malawi,01-01-1984,45.579,1984,East Africa
+Malawi,01-01-1985,44.947,1985,East Africa
+Malawi,01-01-1986,44.343,1986,East Africa
+Malawi,01-01-1987,43.811,1987,East Africa
+Malawi,01-01-1988,43.383,1988,East Africa
+Malawi,01-01-1989,43.34,1989,East Africa
+Malawi,01-01-1990,43.323,1990,East Africa
+Malawi,01-01-1991,43.312,1991,East Africa
+Malawi,01-01-1992,43.413,1992,East Africa
+Malawi,01-01-1993,43.388,1993,East Africa
+Malawi,01-01-1994,43.561,1994,East Africa
+Malawi,01-01-1995,43.641,1995,East Africa
+Malawi,01-01-1996,43.441,1996,East Africa
+Malawi,01-01-1997,43.131,1997,East Africa
+Malawi,01-01-1998,42.848,1998,East Africa
+Malawi,01-01-1999,43.568,1999,East Africa
+Malawi,01-01-2000,44.518,2000,East Africa
+Malawi,01-01-2001,45.895,2001,East Africa
+Malawi,01-01-2002,47.221,2002,East Africa
+Malawi,01-01-2003,48.79,2003,East Africa
+Malawi,01-01-2004,50.453,2004,East Africa
+Malawi,01-01-2005,52.044,2005,East Africa
+Malawi,01-01-2006,53.238,2006,East Africa
+Malawi,01-01-2007,53.946,2007,East Africa
+Malawi,01-01-2008,54.604,2008,East Africa
+Malawi,01-01-2009,55.448,2009,East Africa
+Malawi,01-01-2010,56.381,2010,East Africa
+Malawi,01-01-2011,57.455,2011,East Africa
+Malawi,01-01-2012,58.679,2012,East Africa
+Malawi,01-01-2013,59.729,2013,East Africa
+Malawi,01-01-2014,60.899,2014,East Africa
+Malawi,01-01-2015,61.378,2015,East Africa
+Mali,01-01-1975,36.225,1975,West Africa
+Mali,01-01-1976,37.195,1976,West Africa
+Mali,01-01-1977,38.106,1977,West Africa
+Mali,01-01-1978,39.062,1978,West Africa
+Mali,01-01-1979,39.953,1979,West Africa
+Mali,01-01-1980,40.751,1980,West Africa
+Mali,01-01-1981,41.215,1981,West Africa
+Mali,01-01-1982,41.824,1982,West Africa
+Mali,01-01-1983,42.142,1983,West Africa
+Mali,01-01-1984,42.699,1984,West Africa
+Mali,01-01-1985,43.207,1985,West Africa
+Mali,01-01-1986,43.977,1986,West Africa
+Mali,01-01-1987,44.693,1987,West Africa
+Mali,01-01-1988,45.393,1988,West Africa
+Mali,01-01-1989,45.877,1989,West Africa
+Mali,01-01-1990,46.62,1990,West Africa
+Mali,01-01-1991,47.216,1991,West Africa
+Mali,01-01-1992,47.496,1992,West Africa
+Mali,01-01-1993,47.733,1993,West Africa
+Mali,01-01-1994,47.742,1994,West Africa
+Mali,01-01-1995,47.816,1995,West Africa
+Mali,01-01-1996,47.792,1996,West Africa
+Mali,01-01-1997,48.531,1997,West Africa
+Mali,01-01-1998,49.164,1998,West Africa
+Mali,01-01-1999,49.797,1999,West Africa
+Mali,01-01-2000,50.539,2000,West Africa
+Mali,01-01-2001,51.284,2001,West Africa
+Mali,01-01-2002,52.222,2002,West Africa
+Mali,01-01-2003,52.893,2003,West Africa
+Mali,01-01-2004,53.538,2004,West Africa
+Mali,01-01-2005,54.003,2005,West Africa
+Mali,01-01-2006,54.615,2006,West Africa
+Mali,01-01-2007,54.941,2007,West Africa
+Mali,01-01-2008,55.291,2008,West Africa
+Mali,01-01-2009,55.874,2009,West Africa
+Mali,01-01-2010,56.382,2010,West Africa
+Mali,01-01-2011,56.755,2011,West Africa
+Mali,01-01-2012,57.079,2012,West Africa
+Mali,01-01-2013,57.357,2013,West Africa
+Mali,01-01-2014,57.9,2014,West Africa
+Mali,01-01-2015,58.363,2015,West Africa
+Mauritania,01-01-1975,52.65,1975,West Africa
+Mauritania,01-01-1976,52.917,1976,West Africa
+Mauritania,01-01-1977,53.37,1977,West Africa
+Mauritania,01-01-1978,53.855,1978,West Africa
+Mauritania,01-01-1979,54.474,1979,West Africa
+Mauritania,01-01-1980,55.061,1980,West Africa
+Mauritania,01-01-1981,55.662,1981,West Africa
+Mauritania,01-01-1982,56.275,1982,West Africa
+Mauritania,01-01-1983,56.682,1983,West Africa
+Mauritania,01-01-1984,57.16,1984,West Africa
+Mauritania,01-01-1985,57.575,1985,West Africa
+Mauritania,01-01-1986,57.992,1986,West Africa
+Mauritania,01-01-1987,58.581,1987,West Africa
+Mauritania,01-01-1988,59.141,1988,West Africa
+Mauritania,01-01-1989,59.322,1989,West Africa
+Mauritania,01-01-1990,59.77,1990,West Africa
+Mauritania,01-01-1991,59.936,1991,West Africa
+Mauritania,01-01-1992,60.261,1992,West Africa
+Mauritania,01-01-1993,60.379,1993,West Africa
+Mauritania,01-01-1994,60.336,1994,West Africa
+Mauritania,01-01-1995,60.259,1995,West Africa
+Mauritania,01-01-1996,60.063,1996,West Africa
+Mauritania,01-01-1997,60.452,1997,West Africa
+Mauritania,01-01-1998,60.609,1998,West Africa
+Mauritania,01-01-1999,60.819,1999,West Africa
+Mauritania,01-01-2000,61.028,2000,West Africa
+Mauritania,01-01-2001,61.185,2001,West Africa
+Mauritania,01-01-2002,61.268,2002,West Africa
+Mauritania,01-01-2003,61.347,2003,West Africa
+Mauritania,01-01-2004,61.593,2004,West Africa
+Mauritania,01-01-2005,61.656,2005,West Africa
+Mauritania,01-01-2006,61.891,2006,West Africa
+Mauritania,01-01-2007,62.228,2007,West Africa
+Mauritania,01-01-2008,62.399,2008,West Africa
+Mauritania,01-01-2009,62.8,2009,West Africa
+Mauritania,01-01-2010,63.105,2010,West Africa
+Mauritania,01-01-2011,63.346,2011,West Africa
+Mauritania,01-01-2012,63.578,2012,West Africa
+Mauritania,01-01-2013,63.911,2013,West Africa
+Mauritania,01-01-2014,64.155,2014,West Africa
+Mauritania,01-01-2015,64.485,2015,West Africa
+Mauritius,01-01-1975,62.35580488,1975,West Africa
+Mauritius,01-01-1976,62.86678049,1976,West Africa
+Mauritius,01-01-1977,63.76209756,1977,West Africa
+Mauritius,01-01-1978,64.59392683,1978,West Africa
+Mauritius,01-01-1979,65.30643902,1979,West Africa
+Mauritius,01-01-1980,65.8164878,1980,West Africa
+Mauritius,01-01-1981,66.54795122,1981,West Africa
+Mauritius,01-01-1982,67.0347561,1982,West Africa
+Mauritius,01-01-1983,67.28563415,1983,West Africa
+Mauritius,01-01-1984,67.34390244,1984,West Africa
+Mauritius,01-01-1985,67.49063415,1985,West Africa
+Mauritius,01-01-1986,67.77104878,1986,West Africa
+Mauritius,01-01-1987,68.09697561,1987,West Africa
+Mauritius,01-01-1988,68.36121951,1988,West Africa
+Mauritius,01-01-1989,68.95,1989,West Africa
+Mauritius,01-01-1990,69.40487805,1990,West Africa
+Mauritius,01-01-1991,69.95609756,1991,West Africa
+Mauritius,01-01-1992,70.05853659,1992,West Africa
+Mauritius,01-01-1993,70.10731707,1993,West Africa
+Mauritius,01-01-1994,70.15853659,1994,West Africa
+Mauritius,01-01-1995,70.32585366,1995,West Africa
+Mauritius,01-01-1996,70.32292683,1996,West Africa
+Mauritius,01-01-1997,70.40487805,1997,West Africa
+Mauritius,01-01-1998,70.60731707,1998,West Africa
+Mauritius,01-01-1999,70.96097561,1999,West Africa
+Mauritius,01-01-2000,71.66341463,2000,West Africa
+Mauritius,01-01-2001,71.76585366,2001,West Africa
+Mauritius,01-01-2002,71.96585366,2002,West Africa
+Mauritius,01-01-2003,72.11707317,2003,West Africa
+Mauritius,01-01-2004,72.26585366,2004,West Africa
+Mauritius,01-01-2005,72.43219512,2005,West Africa
+Mauritius,01-01-2006,72.43219512,2006,West Africa
+Mauritius,01-01-2007,72.57073171,2007,West Africa
+Mauritius,01-01-2008,72.57073171,2008,West Africa
+Mauritius,01-01-2009,72.88243902,2009,West Africa
+Mauritius,01-01-2010,72.96731707,2010,West Africa
+Mauritius,01-01-2011,73.26682927,2011,West Africa
+Mauritius,01-01-2012,73.86341463,2012,West Africa
+Mauritius,01-01-2013,74.01707317,2013,West Africa
+Mauritius,01-01-2014,74.19439024,2014,West Africa
+Mauritius,01-01-2015,74.35317073,2015,West Africa
+Morocco,01-01-1975,51.244,1975,North Africa
+Morocco,01-01-1976,51.936,1976,North Africa
+Morocco,01-01-1977,52.704,1977,North Africa
+Morocco,01-01-1978,53.499,1978,North Africa
+Morocco,01-01-1979,54.351,1979,North Africa
+Morocco,01-01-1980,55.219,1980,North Africa
+Morocco,01-01-1981,56.036,1981,North Africa
+Morocco,01-01-1982,56.897,1982,North Africa
+Morocco,01-01-1983,57.724,1983,North Africa
+Morocco,01-01-1984,58.49,1984,North Africa
+Morocco,01-01-1985,59.286,1985,North Africa
+Morocco,01-01-1986,60.041,1986,North Africa
+Morocco,01-01-1987,60.711,1987,North Africa
+Morocco,01-01-1988,61.32,1988,North Africa
+Morocco,01-01-1989,61.899,1989,North Africa
+Morocco,01-01-1990,62.448,1990,North Africa
+Morocco,01-01-1991,62.946,1991,North Africa
+Morocco,01-01-1992,63.401,1992,North Africa
+Morocco,01-01-1993,63.872,1993,North Africa
+Morocco,01-01-1994,64.346,1994,North Africa
+Morocco,01-01-1995,64.736,1995,North Africa
+Morocco,01-01-1996,65.238,1996,North Africa
+Morocco,01-01-1997,65.629,1997,North Africa
+Morocco,01-01-1998,66.018,1998,North Africa
+Morocco,01-01-1999,66.406,1999,North Africa
+Morocco,01-01-2000,66.787,2000,North Africa
+Morocco,01-01-2001,67.18,2001,North Africa
+Morocco,01-01-2002,67.547,2002,North Africa
+Morocco,01-01-2003,67.915,2003,North Africa
+Morocco,01-01-2004,68.231,2004,North Africa
+Morocco,01-01-2005,68.704,2005,North Africa
+Morocco,01-01-2006,69.128,2006,North Africa
+Morocco,01-01-2007,69.604,2007,North Africa
+Morocco,01-01-2008,70.048,2008,North Africa
+Morocco,01-01-2009,70.458,2009,North Africa
+Morocco,01-01-2010,70.829,2010,North Africa
+Morocco,01-01-2011,71.269,2011,North Africa
+Morocco,01-01-2012,71.679,2012,North Africa
+Morocco,01-01-2013,72.122,2013,North Africa
+Morocco,01-01-2014,72.538,2014,North Africa
+Morocco,01-01-2015,72.92,2015,North Africa
+Mozambique,01-01-1975,42.582,1975,East Africa
+Mozambique,01-01-1976,42.635,1976,East Africa
+Mozambique,01-01-1977,42.7,1977,East Africa
+Mozambique,01-01-1978,42.795,1978,East Africa
+Mozambique,01-01-1979,42.744,1979,East Africa
+Mozambique,01-01-1980,42.801,1980,East Africa
+Mozambique,01-01-1981,40.536,1981,East Africa
+Mozambique,01-01-1982,40.703,1982,East Africa
+Mozambique,01-01-1983,40.83,1983,East Africa
+Mozambique,01-01-1984,38.38,1984,East Africa
+Mozambique,01-01-1985,38.657,1985,East Africa
+Mozambique,01-01-1986,40.681,1986,East Africa
+Mozambique,01-01-1987,40.843,1987,East Africa
+Mozambique,01-01-1988,43.844,1988,East Africa
+Mozambique,01-01-1989,44.143,1989,East Africa
+Mozambique,01-01-1990,44.469,1990,East Africa
+Mozambique,01-01-1991,44.66,1991,East Africa
+Mozambique,01-01-1992,44.949,1992,East Africa
+Mozambique,01-01-1993,45.354,1993,East Africa
+Mozambique,01-01-1994,45.606,1994,East Africa
+Mozambique,01-01-1995,46.04,1995,East Africa
+Mozambique,01-01-1996,46.636,1996,East Africa
+Mozambique,01-01-1997,47.408,1997,East Africa
+Mozambique,01-01-1998,48.024,1998,East Africa
+Mozambique,01-01-1999,48.812,1999,East Africa
+Mozambique,01-01-2000,49.491,2000,East Africa
+Mozambique,01-01-2001,50.065,2001,East Africa
+Mozambique,01-01-2002,50.59,2002,East Africa
+Mozambique,01-01-2003,50.87,2003,East Africa
+Mozambique,01-01-2004,51.249,2004,East Africa
+Mozambique,01-01-2005,51.561,2005,East Africa
+Mozambique,01-01-2006,51.961,2006,East Africa
+Mozambique,01-01-2007,52.566,2007,East Africa
+Mozambique,01-01-2008,53.164,2008,East Africa
+Mozambique,01-01-2009,53.788,2009,East Africa
+Mozambique,01-01-2010,54.198,2010,East Africa
+Mozambique,01-01-2011,54.869,2011,East Africa
+Mozambique,01-01-2012,55.639,2012,East Africa
+Mozambique,01-01-2013,56.492,2013,East Africa
+Mozambique,01-01-2014,57.274,2014,East Africa
+Mozambique,01-01-2015,58.151,2015,East Africa
+Namibia,01-01-1975,56.547,1975,Southern Africa
+Namibia,01-01-1976,57.015,1976,Southern Africa
+Namibia,01-01-1977,57.553,1977,Southern Africa
+Namibia,01-01-1978,58.085,1978,Southern Africa
+Namibia,01-01-1979,58.439,1979,Southern Africa
+Namibia,01-01-1980,56.775,1980,Southern Africa
+Namibia,01-01-1981,57.123,1981,Southern Africa
+Namibia,01-01-1982,57.644,1982,Southern Africa
+Namibia,01-01-1983,57.969,1983,Southern Africa
+Namibia,01-01-1984,58.512,1984,Southern Africa
+Namibia,01-01-1985,59.041,1985,Southern Africa
+Namibia,01-01-1986,59.555,1986,Southern Africa
+Namibia,01-01-1987,60.207,1987,Southern Africa
+Namibia,01-01-1988,60.248,1988,Southern Africa
+Namibia,01-01-1989,62.642,1989,Southern Africa
+Namibia,01-01-1990,62.496,1990,Southern Africa
+Namibia,01-01-1991,62.098,1991,Southern Africa
+Namibia,01-01-1992,61.545,1992,Southern Africa
+Namibia,01-01-1993,60.86,1993,Southern Africa
+Namibia,01-01-1994,59.846,1994,Southern Africa
+Namibia,01-01-1995,58.634,1995,Southern Africa
+Namibia,01-01-1996,56.918,1996,Southern Africa
+Namibia,01-01-1997,55.558,1997,Southern Africa
+Namibia,01-01-1998,54.101,1998,Southern Africa
+Namibia,01-01-1999,53.036,1999,Southern Africa
+Namibia,01-01-2000,51.99,2000,Southern Africa
+Namibia,01-01-2001,51.26,2001,Southern Africa
+Namibia,01-01-2002,51.254,2002,Southern Africa
+Namibia,01-01-2003,51.083,2003,Southern Africa
+Namibia,01-01-2004,51.246,2004,Southern Africa
+Namibia,01-01-2005,51.787,2005,Southern Africa
+Namibia,01-01-2006,52.655,2006,Southern Africa
+Namibia,01-01-2007,53.68,2007,Southern Africa
+Namibia,01-01-2008,54.653,2008,Southern Africa
+Namibia,01-01-2009,55.496,2009,Southern Africa
+Namibia,01-01-2010,56.015,2010,Southern Africa
+Namibia,01-01-2011,56.553,2011,Southern Africa
+Namibia,01-01-2012,57.64,2012,Southern Africa
+Namibia,01-01-2013,58.694,2013,Southern Africa
+Namibia,01-01-2014,59.822,2014,Southern Africa
+Namibia,01-01-2015,60.7,2015,Southern Africa
+Niger,01-01-1975,36.588,1975,West Africa
+Niger,01-01-1976,36.976,1976,West Africa
+Niger,01-01-1977,37.644,1977,West Africa
+Niger,01-01-1978,38.45,1978,West Africa
+Niger,01-01-1979,39.202,1979,West Africa
+Niger,01-01-1980,39.678,1980,West Africa
+Niger,01-01-1981,40.165,1981,West Africa
+Niger,01-01-1982,40.301,1982,West Africa
+Niger,01-01-1983,40.359,1983,West Africa
+Niger,01-01-1984,40.059,1984,West Africa
+Niger,01-01-1985,40.031,1985,West Africa
+Niger,01-01-1986,40.129,1986,West Africa
+Niger,01-01-1987,40.433,1987,West Africa
+Niger,01-01-1988,40.79,1988,West Africa
+Niger,01-01-1989,41.221,1989,West Africa
+Niger,01-01-1990,41.852,1990,West Africa
+Niger,01-01-1991,42.218,1991,West Africa
+Niger,01-01-1992,42.947,1992,West Africa
+Niger,01-01-1993,43.817,1993,West Africa
+Niger,01-01-1994,44.714,1994,West Africa
+Niger,01-01-1995,45.774,1995,West Africa
+Niger,01-01-1996,46.676,1996,West Africa
+Niger,01-01-1997,47.505,1997,West Africa
+Niger,01-01-1998,48.191,1998,West Africa
+Niger,01-01-1999,48.738,1999,West Africa
+Niger,01-01-2000,49.322,2000,West Africa
+Niger,01-01-2001,49.841,2001,West Africa
+Niger,01-01-2002,50.562,2002,West Africa
+Niger,01-01-2003,51.434,2003,West Africa
+Niger,01-01-2004,52.589,2004,West Africa
+Niger,01-01-2005,53.59,2005,West Africa
+Niger,01-01-2006,54.596,2006,West Africa
+Niger,01-01-2007,55.553,2007,West Africa
+Niger,01-01-2008,56.508,2008,West Africa
+Niger,01-01-2009,57.396,2009,West Africa
+Niger,01-01-2010,58.367,2010,West Africa
+Niger,01-01-2011,58.994,2011,West Africa
+Niger,01-01-2012,59.65,2012,West Africa
+Niger,01-01-2013,60.239,2013,West Africa
+Niger,01-01-2014,60.786,2014,West Africa
+Niger,01-01-2015,61.083,2015,West Africa
+Nigeria,01-01-1975,43.662,1975,West Africa
+Nigeria,01-01-1976,44.721,1976,West Africa
+Nigeria,01-01-1977,45.558,1977,West Africa
+Nigeria,01-01-1978,46.019,1978,West Africa
+Nigeria,01-01-1979,46.215,1979,West Africa
+Nigeria,01-01-1980,46.349,1980,West Africa
+Nigeria,01-01-1981,46.493,1981,West Africa
+Nigeria,01-01-1982,46.513,1982,West Africa
+Nigeria,01-01-1983,46.638,1983,West Africa
+Nigeria,01-01-1984,46.55,1984,West Africa
+Nigeria,01-01-1985,46.317,1985,West Africa
+Nigeria,01-01-1986,45.975,1986,West Africa
+Nigeria,01-01-1987,46.018,1987,West Africa
+Nigeria,01-01-1988,46.072,1988,West Africa
+Nigeria,01-01-1989,46.182,1989,West Africa
+Nigeria,01-01-1990,46.037,1990,West Africa
+Nigeria,01-01-1991,45.691,1991,West Africa
+Nigeria,01-01-1992,45.668,1992,West Africa
+Nigeria,01-01-1993,45.788,1993,West Africa
+Nigeria,01-01-1994,45.513,1994,West Africa
+Nigeria,01-01-1995,45.487,1995,West Africa
+Nigeria,01-01-1996,45.567,1996,West Africa
+Nigeria,01-01-1997,45.792,1997,West Africa
+Nigeria,01-01-1998,46.036,1998,West Africa
+Nigeria,01-01-1999,46.614,1999,West Africa
+Nigeria,01-01-2000,47.193,2000,West Africa
+Nigeria,01-01-2001,47.619,2001,West Africa
+Nigeria,01-01-2002,47.928,2002,West Africa
+Nigeria,01-01-2003,48.441,2003,West Africa
+Nigeria,01-01-2004,48.767,2004,West Africa
+Nigeria,01-01-2005,49.297,2005,West Africa
+Nigeria,01-01-2006,49.73,2006,West Africa
+Nigeria,01-01-2007,50.033,2007,West Africa
+Nigeria,01-01-2008,50.225,2008,West Africa
+Nigeria,01-01-2009,50.712,2009,West Africa
+Nigeria,01-01-2010,50.945,2010,West Africa
+Nigeria,01-01-2011,51.357,2011,West Africa
+Nigeria,01-01-2012,51.497,2012,West Africa
+Nigeria,01-01-2013,51.707,2013,West Africa
+Nigeria,01-01-2014,51.791,2014,West Africa
+Nigeria,01-01-2015,51.841,2015,West Africa
+Rwanda,01-01-1975,44.698,1975,East Africa
+Rwanda,01-01-1976,44.647,1976,East Africa
+Rwanda,01-01-1977,44.797,1977,East Africa
+Rwanda,01-01-1978,45.48,1978,East Africa
+Rwanda,01-01-1979,46.659,1979,East Africa
+Rwanda,01-01-1980,47.963,1980,East Africa
+Rwanda,01-01-1981,49.422,1981,East Africa
+Rwanda,01-01-1982,50.692,1982,East Africa
+Rwanda,01-01-1983,51.319,1983,East Africa
+Rwanda,01-01-1984,51.64,1984,East Africa
+Rwanda,01-01-1985,51.734,1985,East Africa
+Rwanda,01-01-1986,51.638,1986,East Africa
+Rwanda,01-01-1987,51.477,1987,East Africa
+Rwanda,01-01-1988,50.976,1988,East Africa
+Rwanda,01-01-1989,50.22,1989,East Africa
+Rwanda,01-01-1990,48.431,1990,East Africa
+Rwanda,01-01-1991,46.519,1991,East Africa
+Rwanda,01-01-1992,44.319,1992,East Africa
+Rwanda,01-01-1993,42.166,1993,East Africa
+Rwanda,01-01-1994,14.098,1994,East Africa
+Rwanda,01-01-1995,39.969,1995,East Africa
+Rwanda,01-01-1996,40.698,1996,East Africa
+Rwanda,01-01-1997,40.64,1997,East Africa
+Rwanda,01-01-1998,41.681,1998,East Africa
+Rwanda,01-01-1999,44.616,1999,East Africa
+Rwanda,01-01-2000,47.129,2000,East Africa
+Rwanda,01-01-2001,49.021,2001,East Africa
+Rwanda,01-01-2002,51.032,2002,East Africa
+Rwanda,01-01-2003,53.368,2003,East Africa
+Rwanda,01-01-2004,55.491,2004,East Africa
+Rwanda,01-01-2005,57.316,2005,East Africa
+Rwanda,01-01-2006,58.714,2006,East Africa
+Rwanda,01-01-2007,59.965,2007,East Africa
+Rwanda,01-01-2008,61.134,2008,East Africa
+Rwanda,01-01-2009,61.958,2009,East Africa
+Rwanda,01-01-2010,62.54,2010,East Africa
+Rwanda,01-01-2011,63.261,2011,East Africa
+Rwanda,01-01-2012,64.009,2012,East Africa
+Rwanda,01-01-2013,64.426,2013,East Africa
+Rwanda,01-01-2014,64.94,2014,East Africa
+Rwanda,01-01-2015,65.298,2015,East Africa
+Senegal,01-01-1975,44.099,1975,West Africa
+Senegal,01-01-1976,45.098,1976,West Africa
+Senegal,01-01-1977,46.152,1977,West Africa
+Senegal,01-01-1978,47.197,1978,West Africa
+Senegal,01-01-1979,48.196,1979,West Africa
+Senegal,01-01-1980,49.142,1980,West Africa
+Senegal,01-01-1981,49.85,1981,West Africa
+Senegal,01-01-1982,50.564,1982,West Africa
+Senegal,01-01-1983,51.153,1983,West Africa
+Senegal,01-01-1984,52.015,1984,West Africa
+Senegal,01-01-1985,52.758,1985,West Africa
+Senegal,01-01-1986,53.928,1986,West Africa
+Senegal,01-01-1987,54.819,1987,West Africa
+Senegal,01-01-1988,55.774,1988,West Africa
+Senegal,01-01-1989,56.438,1989,West Africa
+Senegal,01-01-1990,56.948,1990,West Africa
+Senegal,01-01-1991,57.139,1991,West Africa
+Senegal,01-01-1992,57.112,1992,West Africa
+Senegal,01-01-1993,56.996,1993,West Africa
+Senegal,01-01-1994,56.955,1994,West Africa
+Senegal,01-01-1995,56.839,1995,West Africa
+Senegal,01-01-1996,56.672,1996,West Africa
+Senegal,01-01-1997,56.591,1997,West Africa
+Senegal,01-01-1998,56.418,1998,West Africa
+Senegal,01-01-1999,56.609,1999,West Africa
+Senegal,01-01-2000,56.943,2000,West Africa
+Senegal,01-01-2001,57.564,2001,West Africa
+Senegal,01-01-2002,58.231,2002,West Africa
+Senegal,01-01-2003,59.122,2003,West Africa
+Senegal,01-01-2004,60.027,2004,West Africa
+Senegal,01-01-2005,60.915,2005,West Africa
+Senegal,01-01-2006,61.75,2006,West Africa
+Senegal,01-01-2007,62.543,2007,West Africa
+Senegal,01-01-2008,63.242,2008,West Africa
+Senegal,01-01-2009,63.923,2009,West Africa
+Senegal,01-01-2010,64.615,2010,West Africa
+Senegal,01-01-2011,65.262,2011,West Africa
+Senegal,01-01-2012,65.457,2012,West Africa
+Senegal,01-01-2013,66.072,2013,West Africa
+Senegal,01-01-2014,66.452,2014,West Africa
+Senegal,01-01-2015,66.879,2015,West Africa
+Seychelles,01-01-1975,,1975,East Africa
+Seychelles,01-01-1976,,1976,East Africa
+Seychelles,01-01-1977,,1977,East Africa
+Seychelles,01-01-1978,,1978,East Africa
+Seychelles,01-01-1979,,1979,East Africa
+Seychelles,01-01-1980,69.59756098,1980,East Africa
+Seychelles,01-01-1981,70.18780488,1981,East Africa
+Seychelles,01-01-1982,69.32439024,1982,East Africa
+Seychelles,01-01-1983,70.38292683,1983,East Africa
+Seychelles,01-01-1984,69.55365854,1984,East Africa
+Seychelles,01-01-1985,69.69756098,1985,East Africa
+Seychelles,01-01-1986,68.65609756,1986,East Africa
+Seychelles,01-01-1987,68.23658537,1987,East Africa
+Seychelles,01-01-1988,68.70243902,1988,East Africa
+Seychelles,01-01-1989,67.97073171,1989,East Africa
+Seychelles,01-01-1990,68.10731707,1990,East Africa
+Seychelles,01-01-1991,70.71219512,1991,East Africa
+Seychelles,01-01-1992,71.21463415,1992,East Africa
+Seychelles,01-01-1993,69.46829268,1993,East Africa
+Seychelles,01-01-1994,70.72926829,1994,East Africa
+Seychelles,01-01-1995,72.48292683,1995,East Africa
+Seychelles,01-01-1996,71.56097561,1996,East Africa
+Seychelles,01-01-1997,71.21219512,1997,East Africa
+Seychelles,01-01-1998,71.74634146,1998,East Africa
+Seychelles,01-01-1999,72.66829268,1999,East Africa
+Seychelles,01-01-2000,72.77804878,2000,East Africa
+Seychelles,01-01-2001,73.25365854,2001,East Africa
+Seychelles,01-01-2002,71.08780488,2002,East Africa
+Seychelles,01-01-2003,71.02926829,2003,East Africa
+Seychelles,01-01-2004,72.66097561,2004,East Africa
+Seychelles,01-01-2005,72.13170732,2005,East Africa
+Seychelles,01-01-2006,72.21707317,2006,East Africa
+Seychelles,01-01-2007,73.14390244,2007,East Africa
+Seychelles,01-01-2008,73.16341463,2008,East Africa
+Seychelles,01-01-2009,73.08292683,2009,East Africa
+Seychelles,01-01-2010,73.19756098,2010,East Africa
+Seychelles,01-01-2011,72.72439024,2011,East Africa
+Seychelles,01-01-2012,74.27560976,2012,East Africa
+Seychelles,01-01-2013,73.1195122,2013,East Africa
+Seychelles,01-01-2014,73.22926829,2014,East Africa
+Seychelles,01-01-2015,74.29512195,2015,East Africa
+Sierra Leone,01-01-1975,41.173,1975,West Africa
+Sierra Leone,01-01-1976,41.631,1976,West Africa
+Sierra Leone,01-01-1977,42.06,1977,West Africa
+Sierra Leone,01-01-1978,42.46,1978,West Africa
+Sierra Leone,01-01-1979,42.873,1979,West Africa
+Sierra Leone,01-01-1980,43.13,1980,West Africa
+Sierra Leone,01-01-1981,43.364,1981,West Africa
+Sierra Leone,01-01-1982,43.571,1982,West Africa
+Sierra Leone,01-01-1983,43.8,1983,West Africa
+Sierra Leone,01-01-1984,43.916,1984,West Africa
+Sierra Leone,01-01-1985,43.888,1985,West Africa
+Sierra Leone,01-01-1986,43.792,1986,West Africa
+Sierra Leone,01-01-1987,44.047,1987,West Africa
+Sierra Leone,01-01-1988,44.047,1988,West Africa
+Sierra Leone,01-01-1989,44.021,1989,West Africa
+Sierra Leone,01-01-1990,44.057,1990,West Africa
+Sierra Leone,01-01-1991,43.506,1991,West Africa
+Sierra Leone,01-01-1992,43.621,1992,West Africa
+Sierra Leone,01-01-1993,43.594,1993,West Africa
+Sierra Leone,01-01-1994,42.925,1994,West Africa
+Sierra Leone,01-01-1995,42.716,1995,West Africa
+Sierra Leone,01-01-1996,43.68,1996,West Africa
+Sierra Leone,01-01-1997,43.715,1997,West Africa
+Sierra Leone,01-01-1998,42.789,1998,West Africa
+Sierra Leone,01-01-1999,42.071,1999,West Africa
+Sierra Leone,01-01-2000,45.05,2000,West Africa
+Sierra Leone,01-01-2001,45.661,2001,West Africa
+Sierra Leone,01-01-2002,46.359,2002,West Africa
+Sierra Leone,01-01-2003,46.963,2003,West Africa
+Sierra Leone,01-01-2004,47.577,2004,West Africa
+Sierra Leone,01-01-2005,48.237,2005,West Africa
+Sierra Leone,01-01-2006,49.323,2006,West Africa
+Sierra Leone,01-01-2007,50.365,2007,West Africa
+Sierra Leone,01-01-2008,51.526,2008,West Africa
+Sierra Leone,01-01-2009,52.626,2009,West Africa
+Sierra Leone,01-01-2010,53.693,2010,West Africa
+Sierra Leone,01-01-2011,54.62,2011,West Africa
+Sierra Leone,01-01-2012,55.451,2012,West Africa
+Sierra Leone,01-01-2013,56.313,2013,West Africa
+Sierra Leone,01-01-2014,56.393,2014,West Africa
+Sierra Leone,01-01-2015,57.189,2015,West Africa
+Somalia,01-01-1975,44.182,1975,East Africa
+Somalia,01-01-1976,44.568,1976,East Africa
+Somalia,01-01-1977,46.918,1977,East Africa
+Somalia,01-01-1978,46.95,1978,East Africa
+Somalia,01-01-1979,47.305,1979,East Africa
+Somalia,01-01-1980,47.489,1980,East Africa
+Somalia,01-01-1981,47.666,1981,East Africa
+Somalia,01-01-1982,47.83,1982,East Africa
+Somalia,01-01-1983,48.166,1983,East Africa
+Somalia,01-01-1984,48.459,1984,East Africa
+Somalia,01-01-1985,48.281,1985,East Africa
+Somalia,01-01-1986,48.37,1986,East Africa
+Somalia,01-01-1987,48.903,1987,East Africa
+Somalia,01-01-1988,43.835,1988,East Africa
+Somalia,01-01-1989,46.717,1989,East Africa
+Somalia,01-01-1990,47.105,1990,East Africa
+Somalia,01-01-1991,26.565,1991,East Africa
+Somalia,01-01-1992,27.312,1992,East Africa
+Somalia,01-01-1993,50.648,1993,East Africa
+Somalia,01-01-1994,50.327,1994,East Africa
+Somalia,01-01-1995,50.6,1995,East Africa
+Somalia,01-01-1996,50.447,1996,East Africa
+Somalia,01-01-1997,50.195,1997,East Africa
+Somalia,01-01-1998,50.66,1998,East Africa
+Somalia,01-01-1999,50.525,1999,East Africa
+Somalia,01-01-2000,50.66,2000,East Africa
+Somalia,01-01-2001,50.74,2001,East Africa
+Somalia,01-01-2002,50.731,2002,East Africa
+Somalia,01-01-2003,50.614,2003,East Africa
+Somalia,01-01-2004,50.538,2004,East Africa
+Somalia,01-01-2005,50.661,2005,East Africa
+Somalia,01-01-2006,50.597,2006,East Africa
+Somalia,01-01-2007,50.515,2007,East Africa
+Somalia,01-01-2008,51.12,2008,East Africa
+Somalia,01-01-2009,51.853,2009,East Africa
+Somalia,01-01-2010,50.563,2010,East Africa
+Somalia,01-01-2011,51.304,2011,East Africa
+Somalia,01-01-2012,53.161,2012,East Africa
+Somalia,01-01-2013,53.843,2013,East Africa
+Somalia,01-01-2014,54.277,2014,East Africa
+Somalia,01-01-2015,54.857,2015,East Africa
+South Africa,01-01-1975,57.512,1975,Southern Africa
+South Africa,01-01-1976,58.006,1976,Southern Africa
+South Africa,01-01-1977,58.492,1977,Southern Africa
+South Africa,01-01-1978,58.979,1978,Southern Africa
+South Africa,01-01-1979,59.395,1979,Southern Africa
+South Africa,01-01-1980,59.813,1980,Southern Africa
+South Africa,01-01-1981,60.364,1981,Southern Africa
+South Africa,01-01-1982,60.933,1982,Southern Africa
+South Africa,01-01-1983,61.465,1983,Southern Africa
+South Africa,01-01-1984,61.907,1984,Southern Africa
+South Africa,01-01-1985,62.38,1985,Southern Africa
+South Africa,01-01-1986,62.912,1986,Southern Africa
+South Africa,01-01-1987,63.041,1987,Southern Africa
+South Africa,01-01-1988,63.345,1988,Southern Africa
+South Africa,01-01-1989,63.31,1989,Southern Africa
+South Africa,01-01-1990,63.375,1990,Southern Africa
+South Africa,01-01-1991,63.265,1991,Southern Africa
+South Africa,01-01-1992,63.341,1992,Southern Africa
+South Africa,01-01-1993,63.045,1993,Southern Africa
+South Africa,01-01-1994,62.612,1994,Southern Africa
+South Africa,01-01-1995,62.262,1995,Southern Africa
+South Africa,01-01-1996,61.459,1996,Southern Africa
+South Africa,01-01-1997,60.805,1997,Southern Africa
+South Africa,01-01-1998,60.001,1998,Southern Africa
+South Africa,01-01-1999,59.241,1999,Southern Africa
+South Africa,01-01-2000,58.47,2000,Southern Africa
+South Africa,01-01-2001,57.261,2001,Southern Africa
+South Africa,01-01-2002,55.666,2002,Southern Africa
+South Africa,01-01-2003,54.331,2003,Southern Africa
+South Africa,01-01-2004,54.043,2004,Southern Africa
+South Africa,01-01-2005,53.98,2005,Southern Africa
+South Africa,01-01-2006,54.278,2006,Southern Africa
+South Africa,01-01-2007,54.992,2007,Southern Africa
+South Africa,01-01-2008,56.022,2008,Southern Africa
+South Africa,01-01-2009,57.447,2009,Southern Africa
+South Africa,01-01-2010,58.899,2010,Southern Africa
+South Africa,01-01-2011,60.651,2011,Southern Africa
+South Africa,01-01-2012,61.846,2012,Southern Africa
+South Africa,01-01-2013,62.533,2013,Southern Africa
+South Africa,01-01-2014,63.38,2014,Southern Africa
+South Africa,01-01-2015,63.95,2015,Southern Africa
+South Sudan,01-01-1975,36.746,1975,East Africa
+South Sudan,01-01-1976,36.84,1976,East Africa
+South Sudan,01-01-1977,37.325,1977,East Africa
+South Sudan,01-01-1978,37.649,1978,East Africa
+South Sudan,01-01-1979,37.919,1979,East Africa
+South Sudan,01-01-1980,38.417,1980,East Africa
+South Sudan,01-01-1981,38.783,1981,East Africa
+South Sudan,01-01-1982,39.113,1982,East Africa
+South Sudan,01-01-1983,35.491,1983,East Africa
+South Sudan,01-01-1984,32.673,1984,East Africa
+South Sudan,01-01-1985,33.154,1985,East Africa
+South Sudan,01-01-1986,33.632,1986,East Africa
+South Sudan,01-01-1987,21.912,1987,East Africa
+South Sudan,01-01-1988,12.407,1988,East Africa
+South Sudan,01-01-1989,29.68,1989,East Africa
+South Sudan,01-01-1990,29.935,1990,East Africa
+South Sudan,01-01-1991,30.148,1991,East Africa
+South Sudan,01-01-1992,22.724,1992,East Africa
+South Sudan,01-01-1993,22.704,1993,East Africa
+South Sudan,01-01-1994,44.384,1994,East Africa
+South Sudan,01-01-1995,30.948,1995,East Africa
+South Sudan,01-01-1996,31.297,1996,East Africa
+South Sudan,01-01-1997,32.242,1997,East Africa
+South Sudan,01-01-1998,18.385,1998,East Africa
+South Sudan,01-01-1999,43.223,1999,East Africa
+South Sudan,01-01-2000,46.028,2000,East Africa
+South Sudan,01-01-2001,46.881,2001,East Africa
+South Sudan,01-01-2002,47.492,2002,East Africa
+South Sudan,01-01-2003,50.253,2003,East Africa
+South Sudan,01-01-2004,50.917,2004,East Africa
+South Sudan,01-01-2005,51.545,2005,East Africa
+South Sudan,01-01-2006,52.016,2006,East Africa
+South Sudan,01-01-2007,52.856,2007,East Africa
+South Sudan,01-01-2008,53.538,2008,East Africa
+South Sudan,01-01-2009,53.891,2009,East Africa
+South Sudan,01-01-2010,54.812,2010,East Africa
+South Sudan,01-01-2011,54.94,2011,East Africa
+South Sudan,01-01-2012,55.865,2012,East Africa
+South Sudan,01-01-2013,55.751,2013,East Africa
+South Sudan,01-01-2014,54.973,2014,East Africa
+South Sudan,01-01-2015,55.566,2015,East Africa
+Sudan,01-01-1975,53.377,1975,North Africa
+Sudan,01-01-1976,53.462,1976,North Africa
+Sudan,01-01-1977,53.648,1977,North Africa
+Sudan,01-01-1978,53.44,1978,North Africa
+Sudan,01-01-1979,53.559,1979,North Africa
+Sudan,01-01-1980,53.934,1980,North Africa
+Sudan,01-01-1981,54.078,1981,North Africa
+Sudan,01-01-1982,54.321,1982,North Africa
+Sudan,01-01-1983,47.45,1983,North Africa
+Sudan,01-01-1984,46.22,1984,North Africa
+Sudan,01-01-1985,46.458,1985,North Africa
+Sudan,01-01-1986,51.481,1986,North Africa
+Sudan,01-01-1987,43.441,1987,North Africa
+Sudan,01-01-1988,35.923,1988,North Africa
+Sudan,01-01-1989,49.337,1989,North Africa
+Sudan,01-01-1990,49.732,1990,North Africa
+Sudan,01-01-1991,50.213,1991,North Africa
+Sudan,01-01-1992,45.891,1992,North Africa
+Sudan,01-01-1993,46.575,1993,North Africa
+Sudan,01-01-1994,56.644,1994,North Africa
+Sudan,01-01-1995,51.991,1995,North Africa
+Sudan,01-01-1996,52.276,1996,North Africa
+Sudan,01-01-1997,52.833,1997,North Africa
+Sudan,01-01-1998,48.81,1998,North Africa
+Sudan,01-01-1999,57.015,1999,North Africa
+Sudan,01-01-2000,58.319,2000,North Africa
+Sudan,01-01-2001,58.562,2001,North Africa
+Sudan,01-01-2002,58.976,2002,North Africa
+Sudan,01-01-2003,58.2,2003,North Africa
+Sudan,01-01-2004,56.773,2004,North Africa
+Sudan,01-01-2005,57.279,2005,North Africa
+Sudan,01-01-2006,60.281,2006,North Africa
+Sudan,01-01-2007,61.256,2007,North Africa
+Sudan,01-01-2008,61.206,2008,North Africa
+Sudan,01-01-2009,62.644,2009,North Africa
+Sudan,01-01-2010,63.016,2010,North Africa
+Sudan,01-01-2011,63.246,2011,North Africa
+Sudan,01-01-2012,63.792,2012,North Africa
+Sudan,01-01-2013,63.678,2013,North Africa
+Sudan,01-01-2014,64.269,2014,North Africa
+Sudan,01-01-2015,64.659,2015,North Africa
+Tanzania,01-01-1975,48.722,1975,East Africa
+Tanzania,01-01-1976,49.236,1976,East Africa
+Tanzania,01-01-1977,49.842,1977,East Africa
+Tanzania,01-01-1978,50.321,1978,East Africa
+Tanzania,01-01-1979,50.907,1979,East Africa
+Tanzania,01-01-1980,51.201,1980,East Africa
+Tanzania,01-01-1981,51.472,1981,East Africa
+Tanzania,01-01-1982,51.528,1982,East Africa
+Tanzania,01-01-1983,51.543,1983,East Africa
+Tanzania,01-01-1984,51.546,1984,East Africa
+Tanzania,01-01-1985,51.556,1985,East Africa
+Tanzania,01-01-1986,51.672,1986,East Africa
+Tanzania,01-01-1987,51.726,1987,East Africa
+Tanzania,01-01-1988,51.843,1988,East Africa
+Tanzania,01-01-1989,51.739,1989,East Africa
+Tanzania,01-01-1990,51.485,1990,East Africa
+Tanzania,01-01-1991,51.306,1991,East Africa
+Tanzania,01-01-1992,50.989,1992,East Africa
+Tanzania,01-01-1993,50.87,1993,East Africa
+Tanzania,01-01-1994,50.797,1994,East Africa
+Tanzania,01-01-1995,50.786,1995,East Africa
+Tanzania,01-01-1996,50.744,1996,East Africa
+Tanzania,01-01-1997,50.624,1997,East Africa
+Tanzania,01-01-1998,50.914,1998,East Africa
+Tanzania,01-01-1999,51.748,1999,East Africa
+Tanzania,01-01-2000,52.362,2000,East Africa
+Tanzania,01-01-2001,53.161,2001,East Africa
+Tanzania,01-01-2002,53.863,2002,East Africa
+Tanzania,01-01-2003,54.895,2003,East Africa
+Tanzania,01-01-2004,55.596,2004,East Africa
+Tanzania,01-01-2005,56.299,2005,East Africa
+Tanzania,01-01-2006,56.911,2006,East Africa
+Tanzania,01-01-2007,57.52,2007,East Africa
+Tanzania,01-01-2008,58.086,2008,East Africa
+Tanzania,01-01-2009,58.894,2009,East Africa
+Tanzania,01-01-2010,60.105,2010,East Africa
+Tanzania,01-01-2011,61.049,2011,East Africa
+Tanzania,01-01-2012,62.03,2012,East Africa
+Tanzania,01-01-2013,62.96,2013,East Africa
+Tanzania,01-01-2014,63.873,2014,East Africa
+Tanzania,01-01-2015,64.651,2015,East Africa
+Togo,01-01-1975,48.729,1975,West Africa
+Togo,01-01-1976,49.328,1976,West Africa
+Togo,01-01-1977,49.76,1977,West Africa
+Togo,01-01-1978,50.232,1978,West Africa
+Togo,01-01-1979,50.765,1979,West Africa
+Togo,01-01-1980,51.227,1980,West Africa
+Togo,01-01-1981,51.764,1981,West Africa
+Togo,01-01-1982,52.256,1982,West Africa
+Togo,01-01-1983,52.635,1983,West Africa
+Togo,01-01-1984,53.089,1984,West Africa
+Togo,01-01-1985,53.432,1985,West Africa
+Togo,01-01-1986,53.713,1986,West Africa
+Togo,01-01-1987,54.051,1987,West Africa
+Togo,01-01-1988,54.348,1988,West Africa
+Togo,01-01-1989,54.39,1989,West Africa
+Togo,01-01-1990,54.37,1990,West Africa
+Togo,01-01-1991,54.268,1991,West Africa
+Togo,01-01-1992,54.299,1992,West Africa
+Togo,01-01-1993,54.195,1993,West Africa
+Togo,01-01-1994,54.037,1994,West Africa
+Togo,01-01-1995,54.037,1995,West Africa
+Togo,01-01-1996,54.098,1996,West Africa
+Togo,01-01-1997,54.192,1997,West Africa
+Togo,01-01-1998,54.199,1998,West Africa
+Togo,01-01-1999,54.538,1999,West Africa
+Togo,01-01-2000,54.742,2000,West Africa
+Togo,01-01-2001,54.86,2001,West Africa
+Togo,01-01-2002,55.311,2002,West Africa
+Togo,01-01-2003,55.639,2003,West Africa
+Togo,01-01-2004,55.569,2004,West Africa
+Togo,01-01-2005,55.962,2005,West Africa
+Togo,01-01-2006,56.222,2006,West Africa
+Togo,01-01-2007,56.511,2007,West Africa
+Togo,01-01-2008,56.695,2008,West Africa
+Togo,01-01-2009,57.011,2009,West Africa
+Togo,01-01-2010,57.304,2010,West Africa
+Togo,01-01-2011,57.925,2011,West Africa
+Togo,01-01-2012,58.073,2012,West Africa
+Togo,01-01-2013,58.684,2013,West Africa
+Togo,01-01-2014,58.853,2014,West Africa
+Togo,01-01-2015,59.396,2015,West Africa
+Tunisia,01-01-1975,59.468,1975,North Africa
+Tunisia,01-01-1976,60.426,1976,North Africa
+Tunisia,01-01-1977,61.543,1977,North Africa
+Tunisia,01-01-1978,62.338,1978,North Africa
+Tunisia,01-01-1979,63.211,1979,North Africa
+Tunisia,01-01-1980,63.975,1980,North Africa
+Tunisia,01-01-1981,64.691,1981,North Africa
+Tunisia,01-01-1982,65.417,1982,North Africa
+Tunisia,01-01-1983,66.137,1983,North Africa
+Tunisia,01-01-1984,66.82,1984,North Africa
+Tunisia,01-01-1985,67.589,1985,North Africa
+Tunisia,01-01-1986,68.228,1986,North Africa
+Tunisia,01-01-1987,68.899,1987,North Africa
+Tunisia,01-01-1988,69.569,1988,North Africa
+Tunisia,01-01-1989,69.671,1989,North Africa
+Tunisia,01-01-1990,70.11,1990,North Africa
+Tunisia,01-01-1991,70.521,1991,North Africa
+Tunisia,01-01-1992,70.701,1992,North Africa
+Tunisia,01-01-1993,71.235,1993,North Africa
+Tunisia,01-01-1994,71.615,1994,North Africa
+Tunisia,01-01-1995,71.988,1995,North Africa
+Tunisia,01-01-1996,72.38,1996,North Africa
+Tunisia,01-01-1997,72.863,1997,North Africa
+Tunisia,01-01-1998,73.169,1998,North Africa
+Tunisia,01-01-1999,73.508,1999,North Africa
+Tunisia,01-01-2000,73.69,2000,North Africa
+Tunisia,01-01-2001,73.816,2001,North Africa
+Tunisia,01-01-2002,74.059,2002,North Africa
+Tunisia,01-01-2003,74.305,2003,North Africa
+Tunisia,01-01-2004,74.49,2004,North Africa
+Tunisia,01-01-2005,74.764,2005,North Africa
+Tunisia,01-01-2006,74.921,2006,North Africa
+Tunisia,01-01-2007,75.072,2007,North Africa
+Tunisia,01-01-2008,75.185,2008,North Africa
+Tunisia,01-01-2009,75.267,2009,North Africa
+Tunisia,01-01-2010,75.421,2010,North Africa
+Tunisia,01-01-2011,75.46,2011,North Africa
+Tunisia,01-01-2012,75.55,2012,North Africa
+Tunisia,01-01-2013,75.65,2013,North Africa
+Tunisia,01-01-2014,75.65,2014,North Africa
+Tunisia,01-01-2015,75.692,2015,North Africa
+Uganda,01-01-1975,46.267,1975,East Africa
+Uganda,01-01-1976,45.869,1976,East Africa
+Uganda,01-01-1977,45.511,1977,East Africa
+Uganda,01-01-1978,45.207,1978,East Africa
+Uganda,01-01-1979,44.981,1979,East Africa
+Uganda,01-01-1980,42.949,1980,East Africa
+Uganda,01-01-1981,43.09,1981,East Africa
+Uganda,01-01-1982,43.185,1982,East Africa
+Uganda,01-01-1983,43.519,1983,East Africa
+Uganda,01-01-1984,43.752,1984,East Africa
+Uganda,01-01-1985,45.381,1985,East Africa
+Uganda,01-01-1986,45.322,1986,East Africa
+Uganda,01-01-1987,46.619,1987,East Africa
+Uganda,01-01-1988,46.701,1988,East Africa
+Uganda,01-01-1989,46.472,1989,East Africa
+Uganda,01-01-1990,46.443,1990,East Africa
+Uganda,01-01-1991,46.316,1991,East Africa
+Uganda,01-01-1992,46.368,1992,East Africa
+Uganda,01-01-1993,46.237,1993,East Africa
+Uganda,01-01-1994,46.353,1994,East Africa
+Uganda,01-01-1995,46.567,1995,East Africa
+Uganda,01-01-1996,46.67,1996,East Africa
+Uganda,01-01-1997,46.977,1997,East Africa
+Uganda,01-01-1998,47.175,1998,East Africa
+Uganda,01-01-1999,47.786,1999,East Africa
+Uganda,01-01-2000,48.342,2000,East Africa
+Uganda,01-01-2001,49.006,2001,East Africa
+Uganda,01-01-2002,49.648,2002,East Africa
+Uganda,01-01-2003,50.368,2003,East Africa
+Uganda,01-01-2004,51.547,2004,East Africa
+Uganda,01-01-2005,52.976,2005,East Africa
+Uganda,01-01-2006,54.369,2006,East Africa
+Uganda,01-01-2007,55.236,2007,East Africa
+Uganda,01-01-2008,55.823,2008,East Africa
+Uganda,01-01-2009,56.488,2009,East Africa
+Uganda,01-01-2010,57.055,2010,East Africa
+Uganda,01-01-2011,57.965,2011,East Africa
+Uganda,01-01-2012,58.817,2012,East Africa
+Uganda,01-01-2013,59.763,2013,East Africa
+Uganda,01-01-2014,60.408,2014,East Africa
+Uganda,01-01-2015,61.086,2015,East Africa
+Zambia,01-01-1975,54.239,1975,East Africa
+Zambia,01-01-1976,54.604,1976,East Africa
+Zambia,01-01-1977,54.709,1977,East Africa
+Zambia,01-01-1978,54.61,1978,East Africa
+Zambia,01-01-1979,54.439,1979,East Africa
+Zambia,01-01-1980,54.143,1980,East Africa
+Zambia,01-01-1981,54.047,1981,East Africa
+Zambia,01-01-1982,53.859,1982,East Africa
+Zambia,01-01-1983,53.389,1983,East Africa
+Zambia,01-01-1984,52.755,1984,East Africa
+Zambia,01-01-1985,51.902,1985,East Africa
+Zambia,01-01-1986,51.061,1986,East Africa
+Zambia,01-01-1987,50.328,1987,East Africa
+Zambia,01-01-1988,49.527,1988,East Africa
+Zambia,01-01-1989,48.696,1989,East Africa
+Zambia,01-01-1990,47.926,1990,East Africa
+Zambia,01-01-1991,47.097,1991,East Africa
+Zambia,01-01-1992,46.512,1992,East Africa
+Zambia,01-01-1993,46.209,1993,East Africa
+Zambia,01-01-1994,45.854,1994,East Africa
+Zambia,01-01-1995,45.553,1995,East Africa
+Zambia,01-01-1996,45.233,1996,East Africa
+Zambia,01-01-1997,44.945,1997,East Africa
+Zambia,01-01-1998,44.701,1998,East Africa
+Zambia,01-01-1999,44.659,1999,East Africa
+Zambia,01-01-2000,45.231,2000,East Africa
+Zambia,01-01-2001,46.019,2001,East Africa
+Zambia,01-01-2002,46.979,2002,East Africa
+Zambia,01-01-2003,48.284,2003,East Africa
+Zambia,01-01-2004,49.487,2004,East Africa
+Zambia,01-01-2005,50.659,2005,East Africa
+Zambia,01-01-2006,51.795,2006,East Africa
+Zambia,01-01-2007,52.739,2007,East Africa
+Zambia,01-01-2008,53.945,2008,East Africa
+Zambia,01-01-2009,55.3,2009,East Africa
+Zambia,01-01-2010,56.799,2010,East Africa
+Zambia,01-01-2011,57.771,2011,East Africa
+Zambia,01-01-2012,58.867,2012,East Africa
+Zambia,01-01-2013,59.878,2013,East Africa
+Zambia,01-01-2014,60.699,2014,East Africa
+Zambia,01-01-2015,61.208,2015,East Africa
+Zimbabwe,01-01-1975,57.552,1975,East Africa
+Zimbabwe,01-01-1976,56.936,1976,East Africa
+Zimbabwe,01-01-1977,56.285,1977,East Africa
+Zimbabwe,01-01-1978,54.593,1978,East Africa
+Zimbabwe,01-01-1979,55.038,1979,East Africa
+Zimbabwe,01-01-1980,58.674,1980,East Africa
+Zimbabwe,01-01-1981,59.327,1981,East Africa
+Zimbabwe,01-01-1982,59.875,1982,East Africa
+Zimbabwe,01-01-1983,60.248,1983,East Africa
+Zimbabwe,01-01-1984,61.051,1984,East Africa
+Zimbabwe,01-01-1985,61.624,1985,East Africa
+Zimbabwe,01-01-1986,62.023,1986,East Africa
+Zimbabwe,01-01-1987,61.767,1987,East Africa
+Zimbabwe,01-01-1988,61.323,1988,East Africa
+Zimbabwe,01-01-1989,60.401,1989,East Africa
+Zimbabwe,01-01-1990,59.426,1990,East Africa
+Zimbabwe,01-01-1991,58.091,1991,East Africa
+Zimbabwe,01-01-1992,56.435,1992,East Africa
+Zimbabwe,01-01-1993,54.426,1993,East Africa
+Zimbabwe,01-01-1994,52.588,1994,East Africa
+Zimbabwe,01-01-1995,50.531,1995,East Africa
+Zimbabwe,01-01-1996,48.955,1996,East Africa
+Zimbabwe,01-01-1997,47.993,1997,East Africa
+Zimbabwe,01-01-1998,46.819,1998,East Africa
+Zimbabwe,01-01-1999,45.206,1999,East Africa
+Zimbabwe,01-01-2000,44.686,2000,East Africa
+Zimbabwe,01-01-2001,41.957,2001,East Africa
+Zimbabwe,01-01-2002,44.565,2002,East Africa
+Zimbabwe,01-01-2003,43.393,2003,East Africa
+Zimbabwe,01-01-2004,44.502,2004,East Africa
+Zimbabwe,01-01-2005,44.768,2005,East Africa
+Zimbabwe,01-01-2006,45.364,2006,East Africa
+Zimbabwe,01-01-2007,45.61,2007,East Africa
+Zimbabwe,01-01-2008,46.723,2008,East Africa
+Zimbabwe,01-01-2009,48.063,2009,East Africa
+Zimbabwe,01-01-2010,50.652,2010,East Africa
+Zimbabwe,01-01-2011,53.347,2011,East Africa
+Zimbabwe,01-01-2012,55.626,2012,East Africa
+Zimbabwe,01-01-2013,57.458,2013,East Africa
+Zimbabwe,01-01-2014,58.846,2014,East Africa
+Zimbabwe,01-01-2015,59.591,2015,East Africa
+World,01-01-1960,50.89417969,,World
+World,01-01-1961,52.84633643,,World
+World,01-01-1962,55.20868386,,World
+World,01-01-1963,55.54234061,,World
+World,01-01-1964,56.03487534,,World
+World,01-01-1965,55.86063331,,World
+World,01-01-1966,56.38974347,,World
+World,01-01-1967,56.79478414,,World
+World,01-01-1968,57.22542114,,World
+World,01-01-1969,57.5355516,,World
+World,01-01-1970,57.84094631,,World
+World,01-01-1971,57.96723793,,World
+World,01-01-1972,58.79292431,,World
+World,01-01-1973,59.29465121,,World
+World,01-01-1974,59.71363348,,World
+World,01-01-1975,60.16610027,1975,World
+World,01-01-1976,60.62581046,1976,World
+World,01-01-1977,61.12086665,1977,World
+World,01-01-1978,61.48145494,1978,World
+World,01-01-1979,61.9027523,1979,World
+World,01-01-1980,62.23355552,1980,World
+World,01-01-1981,62.61128333,1981,World
+World,01-01-1982,62.97221434,1982,World
+World,01-01-1983,63.21564058,1983,World
+World,01-01-1984,63.52012413,1984,World
+World,01-01-1985,63.81228938,1985,World
+World,01-01-1986,64.20823171,1986,World
+World,01-01-1987,64.5127565,1987,World
+World,01-01-1988,64.68486253,1988,World
+World,01-01-1989,65.02281527,1989,World
+World,01-01-1990,65.18840651,1990,World
+World,01-01-1991,65.33519025,1991,World
+World,01-01-1992,65.59637517,1992,World
+World,01-01-1993,65.78025124,1993,World
+World,01-01-1994,66.02523417,1994,World
+World,01-01-1995,66.21565793,1995,World
+World,01-01-1996,66.48003428,1996,World
+World,01-01-1997,66.82174035,1997,World
+World,01-01-1998,67.0967795,1998,World
+World,01-01-1999,67.38719522,1999,World
+World,01-01-2000,67.7004017,2000,World
+World,01-01-2001,68.0522403,2001,World
+World,01-01-2002,68.33322196,2002,World
+World,01-01-2003,68.60683639,2003,World
+World,01-01-2004,68.86230529,2004,World
+World,01-01-2005,69.19874131,2005,World
+World,01-01-2006,69.57122906,2006,World
+World,01-01-2007,69.83511451,2007,World
+World,01-01-2008,70.00610058,2008,World
+World,01-01-2009,70.40149984,2009,World
+World,01-01-2010,70.67120077,2010,World
+World,01-01-2011,71.00829742,2011,World
+World,01-01-2012,71.28437756,2012,World
+World,01-01-2013,71.57722586,2013,World
+World,01-01-2014,71.88087567,2014,World
+World,01-01-2015,72.09434071,2015,World
+World,01-01-2016,72.34434845,,World
+World,01-01-2017,72.54169517,,World
+World,01-01-2018,72.7832104,,World
+World,01-01-2019,72.9791435,,World
+World,01-01-2020,72.24346591,,World
+World,01-01-2021,71.32686542,,World
