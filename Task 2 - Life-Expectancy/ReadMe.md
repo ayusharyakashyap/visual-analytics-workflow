@@ -1,4 +1,4 @@
-##Task 2 - Life Expectancy Analysis
+# Task 2 - Life Expectancy Analysis
 
 ## Overview
 We focus on life expectancy trends. cWe have 4 rounds in this workflow. 
@@ -15,26 +15,23 @@ We focus on life expectancy trends. cWe have 4 rounds in this workflow.
 4. **Fourth Run**  
    We look at trends of these factors.
 
-## Folder Structure
-- **Codes**  
-  This folder contains all the scripts for:
-  - Data visualization
-  - Machine learning (K-means clustering)
-  - Data preprocessing
+## Folder Structure:
 
-- **Files**  
-  This folder contains the dataset and preprocessed files.
+● Codes
+- Contains all the files used for plotting visualizations , ml model
 
-- **Images**  
-  This folder contains images used in the report, as well as some extra images.
+(k-means clustering) and preprocessing codes.
+● Files
 
-## How to Run the Code
-1. Download all the files, including the notebooks from the `Codes` folder, into one folder.  
-2. Ensure all files and notebooks are in the same folder.  
-3. Open and run the notebooks in order.
+- Contains all the preprocessed files , given dataset.
+● Images
 
-## Requirements
-- Python 3.x
-- Required Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`, `re`
+- Contains all the images used in the report , named as per the
+name in the report. Few extra images are also there.
 
-Feel free to explore the project and share your feedback!
+To run the code:
+
+Download all the flies in a single folder , along with the notebooks from
+codes folder. Make sure all the files and notebooks are in the same folder.
+
+Now one can run each notebook
